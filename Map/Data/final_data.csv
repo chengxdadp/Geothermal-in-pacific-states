@@ -1,0 +1,6 @@
+,state,city,state_share,city_share,plants_in_buffer,total_state_plants
+0,WA,Seattle,0.008,0.002,0,0
+1,OR,Portland,0.274,0.083,0,2
+2,CA,San_Francisco,0.212,0.317,15,50
+3,CA,Los_Angeles,0.212,0.075,0,50
+4,CA,San_Diego,0.212,0.274,5,50

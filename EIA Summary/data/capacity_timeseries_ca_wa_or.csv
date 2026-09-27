@@ -1,0 +1,1366 @@
+State_code,Year,Source_fuel,Capacity_MW,Source_status,State,Energy_source,Capacity_GW,Highlight
+CA,1990,Geothermal,2494.4,Reported,California,Geothermal,2.4944,True
+CA,1990,Nuclear,4746.0,Reported,California,Nuclear,4.746,True
+CA,1990,Coal,431.6,Reported,California,Coal,0.43160000000000004,False
+CA,1990,Hydroelectric,9767.2,Reported,California,Hydroelectric,9.7672,False
+CA,1990,Natural Gas,26075.5,Reported,California,Natural gas,26.0755,False
+CA,1990,Other,0.0,Not listed,California,Other,0.0,False
+CA,1990,Other Biomass,375.0,Reported,California,Other biomass,0.375,False
+CA,1990,Other Gases,107.4,Reported,California,Other gases,0.10740000000000001,False
+CA,1990,Petroleum,2967.6,Reported,California,Petroleum,2.9676,False
+CA,1990,Pumped Storage,3526.0,Reported,California,Pumped storage,3.526,False
+CA,1990,Solar Thermal and Photovoltaic,313.7,Reported,California,Solar,0.3137,False
+CA,1990,Wind,1774.9,Reported,California,Wind,1.7749000000000001,False
+CA,1990,Wood and Wood Derived Fuels,636.0,Reported,California,Wood-derived fuels,0.636,False
+CA,1991,Geothermal,2446.9,Reported,California,Geothermal,2.4469000000000003,True
+CA,1991,Nuclear,4746.0,Reported,California,Nuclear,4.746,True
+CA,1991,Coal,393.3,Reported,California,Coal,0.39330000000000004,False
+CA,1991,Hydroelectric,9800.3,Reported,California,Hydroelectric,9.8003,False
+CA,1991,Natural Gas,26371.7,Reported,California,Natural gas,26.3717,False
+CA,1991,Other,8.7,Reported,California,Other,0.0087,False
+CA,1991,Other Biomass,372.2,Reported,California,Other biomass,0.3722,False
+CA,1991,Other Gases,214.5,Reported,California,Other gases,0.2145,False
+CA,1991,Petroleum,2652.6,Reported,California,Petroleum,2.6526,False
+CA,1991,Pumped Storage,3526.0,Reported,California,Pumped storage,3.526,False
+CA,1991,Solar Thermal and Photovoltaic,322.3,Reported,California,Solar,0.32230000000000003,False
+CA,1991,Wind,1861.4,Reported,California,Wind,1.8614000000000002,False
+CA,1991,Wood and Wood Derived Fuels,728.6,Reported,California,Wood-derived fuels,0.7286,False
+CA,1992,Geothermal,2613.7,Reported,California,Geothermal,2.6136999999999997,True
+CA,1992,Nuclear,4310.0,Reported,California,Nuclear,4.31,True
+CA,1992,Coal,432.8,Reported,California,Coal,0.4328,False
+CA,1992,Hydroelectric,10030.6,Reported,California,Hydroelectric,10.0306,False
+CA,1992,Natural Gas,27210.2,Reported,California,Natural gas,27.2102,False
+CA,1992,Other,8.7,Reported,California,Other,0.0087,False
+CA,1992,Other Biomass,412.9,Reported,California,Other biomass,0.4129,False
+CA,1992,Other Gases,214.1,Reported,California,Other gases,0.21409999999999998,False
+CA,1992,Petroleum,1903.4,Reported,California,Petroleum,1.9034,False
+CA,1992,Pumped Storage,3730.4,Reported,California,Pumped storage,3.7304,False
+CA,1992,Solar Thermal and Photovoltaic,338.4,Reported,California,Solar,0.3384,False
+CA,1992,Wind,1798.6,Reported,California,Wind,1.7986,False
+CA,1992,Wood and Wood Derived Fuels,692.5,Reported,California,Wood-derived fuels,0.6925,False
+CA,1993,Geothermal,2673.4,Reported,California,Geothermal,2.6734,True
+CA,1993,Nuclear,4310.0,Reported,California,Nuclear,4.31,True
+CA,1993,Coal,438.6,Reported,California,Coal,0.43860000000000005,False
+CA,1993,Hydroelectric,10310.3,Reported,California,Hydroelectric,10.3103,False
+CA,1993,Natural Gas,27788.7,Reported,California,Natural gas,27.788700000000002,False
+CA,1993,Other,8.7,Reported,California,Other,0.0087,False
+CA,1993,Other Biomass,454.2,Reported,California,Other biomass,0.4542,False
+CA,1993,Other Gases,212.9,Reported,California,Other gases,0.2129,False
+CA,1993,Petroleum,1697.7,Reported,California,Petroleum,1.6977,False
+CA,1993,Pumped Storage,3730.4,Reported,California,Pumped storage,3.7304,False
+CA,1993,Solar Thermal and Photovoltaic,339.4,Reported,California,Solar,0.3394,False
+CA,1993,Wind,1773.1,Reported,California,Wind,1.7731,False
+CA,1993,Wood and Wood Derived Fuels,667.8,Reported,California,Wood-derived fuels,0.6678,False
+CA,1994,Geothermal,2684.3,Reported,California,Geothermal,2.6843000000000004,True
+CA,1994,Nuclear,4310.0,Reported,California,Nuclear,4.31,True
+CA,1994,Coal,421.3,Reported,California,Coal,0.4213,False
+CA,1994,Hydroelectric,10415.8,Reported,California,Hydroelectric,10.415799999999999,False
+CA,1994,Natural Gas,26784.2,Reported,California,Natural gas,26.784200000000002,False
+CA,1994,Other,8.7,Reported,California,Other,0.0087,False
+CA,1994,Other Biomass,397.4,Reported,California,Other biomass,0.3974,False
+CA,1994,Other Gases,220.1,Reported,California,Other gases,0.2201,False
+CA,1994,Petroleum,1729.3,Reported,California,Petroleum,1.7293,False
+CA,1994,Pumped Storage,3730.4,Reported,California,Pumped storage,3.7304,False
+CA,1994,Solar Thermal and Photovoltaic,332.6,Reported,California,Solar,0.3326,False
+CA,1994,Wind,1699.3,Reported,California,Wind,1.6993,False
+CA,1994,Wood and Wood Derived Fuels,723.1,Reported,California,Wood-derived fuels,0.7231000000000001,False
+CA,1995,Geothermal,2671.8,Reported,California,Geothermal,2.6718,True
+CA,1995,Nuclear,4310.0,Reported,California,Nuclear,4.31,True
+CA,1995,Coal,420.1,Reported,California,Coal,0.42010000000000003,False
+CA,1995,Hydroelectric,10445.7,Reported,California,Hydroelectric,10.4457,False
+CA,1995,Natural Gas,26785.6,Reported,California,Natural gas,26.7856,False
+CA,1995,Other,8.7,Reported,California,Other,0.0087,False
+CA,1995,Other Biomass,449.0,Reported,California,Other biomass,0.449,False
+CA,1995,Other Gases,176.2,Reported,California,Other gases,0.1762,False
+CA,1995,Petroleum,1865.9,Reported,California,Petroleum,1.8659000000000001,False
+CA,1995,Pumped Storage,3730.4,Reported,California,Pumped storage,3.7304,False
+CA,1995,Solar Thermal and Photovoltaic,332.6,Reported,California,Solar,0.3326,False
+CA,1995,Wind,1686.6,Reported,California,Wind,1.6865999999999999,False
+CA,1995,Wood and Wood Derived Fuels,606.4,Reported,California,Wood-derived fuels,0.6063999999999999,False
+CA,1996,Geothermal,2597.0,Reported,California,Geothermal,2.597,True
+CA,1996,Nuclear,4746.0,Reported,California,Nuclear,4.746,True
+CA,1996,Coal,402.8,Reported,California,Coal,0.4028,False
+CA,1996,Hydroelectric,10445.2,Reported,California,Hydroelectric,10.445200000000002,False
+CA,1996,Natural Gas,27205.3,Reported,California,Natural gas,27.205299999999998,False
+CA,1996,Other,8.7,Reported,California,Other,0.0087,False
+CA,1996,Other Biomass,380.2,Reported,California,Other biomass,0.3802,False
+CA,1996,Other Gases,190.5,Reported,California,Other gases,0.1905,False
+CA,1996,Petroleum,1835.9,Reported,California,Petroleum,1.8359,False
+CA,1996,Pumped Storage,3730.4,Reported,California,Pumped storage,3.7304,False
+CA,1996,Solar Thermal and Photovoltaic,332.7,Reported,California,Solar,0.3327,False
+CA,1996,Wind,1599.3,Reported,California,Wind,1.5993,False
+CA,1996,Wood and Wood Derived Fuels,682.4,Reported,California,Wood-derived fuels,0.6824,False
+CA,1997,Geothermal,2597.0,Reported,California,Geothermal,2.597,True
+CA,1997,Nuclear,4310.0,Reported,California,Nuclear,4.31,True
+CA,1997,Coal,420.1,Reported,California,Coal,0.42010000000000003,False
+CA,1997,Hydroelectric,10394.2,Reported,California,Hydroelectric,10.394200000000001,False
+CA,1997,Natural Gas,28159.5,Reported,California,Natural gas,28.1595,False
+CA,1997,Other,8.7,Reported,California,Other,0.0087,False
+CA,1997,Other Biomass,334.5,Reported,California,Other biomass,0.3345,False
+CA,1997,Other Gases,171.4,Reported,California,Other gases,0.1714,False
+CA,1997,Petroleum,1248.2,Reported,California,Petroleum,1.2482,False
+CA,1997,Pumped Storage,3730.4,Reported,California,Pumped storage,3.7304,False
+CA,1997,Solar Thermal and Photovoltaic,332.7,Reported,California,Solar,0.3327,False
+CA,1997,Wind,1519.1,Reported,California,Wind,1.5191,False
+CA,1997,Wood and Wood Derived Fuels,632.4,Reported,California,Wood-derived fuels,0.6324,False
+CA,1998,Geothermal,2597.6,Reported,California,Geothermal,2.5976,True
+CA,1998,Nuclear,4310.0,Reported,California,Nuclear,4.31,True
+CA,1998,Coal,380.6,Reported,California,Coal,0.38060000000000005,False
+CA,1998,Hydroelectric,10255.6,Reported,California,Hydroelectric,10.255600000000001,False
+CA,1998,Natural Gas,26982.1,Reported,California,Natural gas,26.9821,False
+CA,1998,Other,8.7,Reported,California,Other,0.0087,False
+CA,1998,Other Biomass,341.7,Reported,California,Other biomass,0.3417,False
+CA,1998,Other Gases,203.1,Reported,California,Other gases,0.2031,False
+CA,1998,Petroleum,1081.2,Reported,California,Petroleum,1.0812,False
+CA,1998,Pumped Storage,3730.4,Reported,California,Pumped storage,3.7304,False
+CA,1998,Solar Thermal and Photovoltaic,333.7,Reported,California,Solar,0.3337,False
+CA,1998,Wind,1509.3,Reported,California,Wind,1.5092999999999999,False
+CA,1998,Wood and Wood Derived Fuels,639.5,Reported,California,Wood-derived fuels,0.6395,False
+CA,1999,Geothermal,2575.3,Reported,California,Geothermal,2.5753000000000004,True
+CA,1999,Nuclear,4310.0,Reported,California,Nuclear,4.31,True
+CA,1999,Coal,385.1,Reported,California,Coal,0.3851,False
+CA,1999,Hydroelectric,10313.9,Reported,California,Hydroelectric,10.3139,False
+CA,1999,Natural Gas,26563.2,Reported,California,Natural gas,26.563200000000002,False
+CA,1999,Other,8.7,Reported,California,Other,0.0087,False
+CA,1999,Other Biomass,346.8,Reported,California,Other biomass,0.3468,False
+CA,1999,Other Gases,335.3,Reported,California,Other gases,0.3353,False
+CA,1999,Petroleum,1039.7,Reported,California,Petroleum,1.0397,False
+CA,1999,Pumped Storage,3730.4,Reported,California,Pumped storage,3.7304,False
+CA,1999,Solar Thermal and Photovoltaic,387.3,Reported,California,Solar,0.38730000000000003,False
+CA,1999,Wind,1558.0,Reported,California,Wind,1.558,False
+CA,1999,Wood and Wood Derived Fuels,617.5,Reported,California,Wood-derived fuels,0.6175,False
+CA,2000,Geothermal,2529.0,Reported,California,Geothermal,2.529,True
+CA,2000,Nuclear,4310.0,Reported,California,Nuclear,4.31,True
+CA,2000,Coal,407.0,Reported,California,Coal,0.407,False
+CA,2000,Hydroelectric,10311.0,Reported,California,Hydroelectric,10.311,False
+CA,2000,Natural Gas,26685.0,Reported,California,Natural gas,26.685,False
+CA,2000,Other,4.0,Reported,California,Other,0.004,False
+CA,2000,Other Biomass,388.0,Reported,California,Other biomass,0.388,False
+CA,2000,Other Gases,395.0,Reported,California,Other gases,0.395,False
+CA,2000,Petroleum,986.0,Reported,California,Petroleum,0.986,False
+CA,2000,Pumped Storage,3730.0,Reported,California,Pumped storage,3.73,False
+CA,2000,Solar Thermal and Photovoltaic,384.0,Reported,California,Solar,0.384,False
+CA,2000,Wind,1541.0,Reported,California,Wind,1.541,False
+CA,2000,Wood and Wood Derived Fuels,637.0,Reported,California,Wood-derived fuels,0.637,False
+CA,2001,Geothermal,2003.0,Reported,California,Geothermal,2.003,True
+CA,2001,Nuclear,4324.0,Reported,California,Nuclear,4.324,True
+CA,2001,Coal,363.0,Reported,California,Coal,0.363,False
+CA,2001,Hydroelectric,10331.0,Reported,California,Hydroelectric,10.331,False
+CA,2001,Natural Gas,29444.0,Reported,California,Natural gas,29.444,False
+CA,2001,Other,13.0,Reported,California,Other,0.013,False
+CA,2001,Other Biomass,334.0,Reported,California,Other biomass,0.334,False
+CA,2001,Other Gases,281.0,Reported,California,Other gases,0.281,False
+CA,2001,Petroleum,1082.0,Reported,California,Petroleum,1.082,False
+CA,2001,Pumped Storage,3730.0,Reported,California,Pumped storage,3.73,False
+CA,2001,Solar Thermal and Photovoltaic,390.0,Reported,California,Solar,0.39,False
+CA,2001,Wind,1558.0,Reported,California,Wind,1.558,False
+CA,2001,Wood and Wood Derived Fuels,631.0,Reported,California,Wood-derived fuels,0.631,False
+CA,2002,Geothermal,2018.0,Reported,California,Geothermal,2.018,True
+CA,2002,Nuclear,4324.0,Reported,California,Nuclear,4.324,True
+CA,2002,Coal,352.0,Reported,California,Coal,0.352,False
+CA,2002,Hydroelectric,10364.0,Reported,California,Hydroelectric,10.364,False
+CA,2002,Natural Gas,31712.0,Reported,California,Natural gas,31.712,False
+CA,2002,Other,17.0,Reported,California,Other,0.017,False
+CA,2002,Other Biomass,364.0,Reported,California,Other biomass,0.364,False
+CA,2002,Other Gases,226.0,Reported,California,Other gases,0.226,False
+CA,2002,Petroleum,837.0,Reported,California,Petroleum,0.837,False
+CA,2002,Pumped Storage,3730.0,Reported,California,Pumped storage,3.73,False
+CA,2002,Solar Thermal and Photovoltaic,390.0,Reported,California,Solar,0.39,False
+CA,2002,Wind,1701.0,Reported,California,Wind,1.701,False
+CA,2002,Wood and Wood Derived Fuels,629.0,Reported,California,Wood-derived fuels,0.629,False
+CA,2003,Geothermal,1896.0,Reported,California,Geothermal,1.896,True
+CA,2003,Nuclear,4324.0,Reported,California,Nuclear,4.324,True
+CA,2003,Coal,358.0,Reported,California,Coal,0.358,False
+CA,2003,Hydroelectric,9947.0,Reported,California,Hydroelectric,9.947,False
+CA,2003,Natural Gas,33290.0,Reported,California,Natural gas,33.29,False
+CA,2003,Other,17.0,Reported,California,Other,0.017,False
+CA,2003,Other Biomass,369.0,Reported,California,Other biomass,0.369,False
+CA,2003,Other Gases,225.0,Reported,California,Other gases,0.225,False
+CA,2003,Petroleum,824.0,Reported,California,Petroleum,0.824,False
+CA,2003,Pumped Storage,3688.0,Reported,California,Pumped storage,3.688,False
+CA,2003,Solar Thermal and Photovoltaic,390.0,Reported,California,Solar,0.39,False
+CA,2003,Wind,1910.0,Reported,California,Wind,1.91,False
+CA,2003,Wood and Wood Derived Fuels,613.0,Reported,California,Wood-derived fuels,0.613,False
+CA,2004,Geothermal,1956.0,Reported,California,Geothermal,1.956,True
+CA,2004,Nuclear,4324.0,Reported,California,Nuclear,4.324,True
+CA,2004,Coal,389.0,Reported,California,Coal,0.389,False
+CA,2004,Hydroelectric,10078.0,Reported,California,Hydroelectric,10.078,False
+CA,2004,Natural Gas,33438.0,Reported,California,Natural gas,33.438,False
+CA,2004,Other,8.0,Reported,California,Other,0.008,False
+CA,2004,Other Biomass,348.0,Reported,California,Other biomass,0.348,False
+CA,2004,Other Gases,235.0,Reported,California,Other gases,0.235,False
+CA,2004,Petroleum,838.0,Reported,California,Petroleum,0.838,False
+CA,2004,Pumped Storage,3688.0,Reported,California,Pumped storage,3.688,False
+CA,2004,Solar Thermal and Photovoltaic,390.0,Reported,California,Solar,0.39,False
+CA,2004,Wind,2023.0,Reported,California,Wind,2.023,False
+CA,2004,Wood and Wood Derived Fuels,591.0,Reported,California,Wood-derived fuels,0.591,False
+CA,2005,Geothermal,2046.0,Reported,California,Geothermal,2.046,True
+CA,2005,Nuclear,4324.0,Reported,California,Nuclear,4.324,True
+CA,2005,Coal,389.0,Reported,California,Coal,0.389,False
+CA,2005,Hydroelectric,10088.0,Reported,California,Hydroelectric,10.088,False
+CA,2005,Natural Gas,36700.0,Reported,California,Natural gas,36.7,False
+CA,2005,Other,8.0,Reported,California,Other,0.008,False
+CA,2005,Other Biomass,403.0,Reported,California,Other biomass,0.403,False
+CA,2005,Other Gases,191.0,Reported,California,Other gases,0.191,False
+CA,2005,Petroleum,840.0,Reported,California,Petroleum,0.84,False
+CA,2005,Pumped Storage,3688.0,Reported,California,Pumped storage,3.688,False
+CA,2005,Solar Thermal and Photovoltaic,402.0,Reported,California,Solar,0.402,False
+CA,2005,Wind,2052.0,Reported,California,Wind,2.052,False
+CA,2005,Wood and Wood Derived Fuels,577.0,Reported,California,Wood-derived fuels,0.577,False
+CA,2006,Geothermal,2032.0,Reported,California,Geothermal,2.032,True
+CA,2006,Nuclear,4390.0,Reported,California,Nuclear,4.39,True
+CA,2006,Coal,389.0,Reported,California,Coal,0.389,False
+CA,2006,Hydroelectric,10083.0,Reported,California,Hydroelectric,10.083,False
+CA,2006,Natural Gas,38001.0,Reported,California,Natural gas,38.001,False
+CA,2006,Other,8.0,Reported,California,Other,0.008,False
+CA,2006,Other Biomass,420.0,Reported,California,Other biomass,0.42,False
+CA,2006,Other Gases,171.0,Reported,California,Other gases,0.171,False
+CA,2006,Petroleum,789.0,Reported,California,Petroleum,0.789,False
+CA,2006,Pumped Storage,3688.0,Reported,California,Pumped storage,3.688,False
+CA,2006,Solar Thermal and Photovoltaic,402.0,Reported,California,Solar,0.402,False
+CA,2006,Wind,2255.0,Reported,California,Wind,2.255,False
+CA,2006,Wood and Wood Derived Fuels,584.0,Reported,California,Wood-derived fuels,0.584,False
+CA,2007,Geothermal,1940.0,Reported,California,Geothermal,1.94,True
+CA,2007,Nuclear,4390.0,Reported,California,Nuclear,4.39,True
+CA,2007,Coal,389.0,Reported,California,Coal,0.389,False
+CA,2007,Hydroelectric,10041.0,Reported,California,Hydroelectric,10.041,False
+CA,2007,Natural Gas,38556.0,Reported,California,Natural gas,38.556,False
+CA,2007,Other,0.0,Not listed,California,Other,0.0,False
+CA,2007,Other Biomass,482.0,Reported,California,Other biomass,0.482,False
+CA,2007,Other Gases,262.0,Reported,California,Other gases,0.262,False
+CA,2007,Petroleum,754.0,Reported,California,Petroleum,0.754,False
+CA,2007,Pumped Storage,3688.0,Reported,California,Pumped storage,3.688,False
+CA,2007,Solar Thermal and Photovoltaic,404.0,Reported,California,Solar,0.404,False
+CA,2007,Wind,2312.0,Reported,California,Wind,2.312,False
+CA,2007,Wood and Wood Derived Fuels,596.0,Reported,California,Wood-derived fuels,0.596,False
+CA,2008,Geothermal,1940.0,Reported,California,Geothermal,1.94,True
+CA,2008,Nuclear,4390.0,Reported,California,Nuclear,4.39,True
+CA,2008,Coal,367.0,Reported,California,Coal,0.367,False
+CA,2008,Hydroelectric,10122.0,Reported,California,Hydroelectric,10.122,False
+CA,2008,Natural Gas,38635.0,Reported,California,Natural gas,38.635,False
+CA,2008,Other,7.0,Reported,California,Other,0.007,False
+CA,2008,Other Biomass,483.0,Reported,California,Other biomass,0.483,False
+CA,2008,Other Gases,197.0,Reported,California,Other gases,0.197,False
+CA,2008,Petroleum,752.0,Reported,California,Petroleum,0.752,False
+CA,2008,Pumped Storage,3813.0,Reported,California,Pumped storage,3.813,False
+CA,2008,Solar Thermal and Photovoltaic,416.0,Reported,California,Solar,0.416,False
+CA,2008,Wind,2368.0,Reported,California,Wind,2.368,False
+CA,2008,Wood and Wood Derived Fuels,616.0,Reported,California,Wood-derived fuels,0.616,False
+CA,2009,Geothermal,2004.0,Reported,California,Geothermal,2.004,True
+CA,2009,Nuclear,4390.0,Reported,California,Nuclear,4.39,True
+CA,2009,Coal,367.0,Reported,California,Coal,0.367,False
+CA,2009,Hydroelectric,10144.0,Reported,California,Hydroelectric,10.144,False
+CA,2009,Natural Gas,40146.0,Reported,California,Natural gas,40.146,False
+CA,2009,Other,7.0,Reported,California,Other,0.007,False
+CA,2009,Other Biomass,402.0,Reported,California,Other biomass,0.402,False
+CA,2009,Other Gases,197.0,Reported,California,Other gases,0.197,False
+CA,2009,Petroleum,734.0,Reported,California,Petroleum,0.734,False
+CA,2009,Pumped Storage,3813.0,Reported,California,Pumped storage,3.813,False
+CA,2009,Solar Thermal and Photovoltaic,450.0,Reported,California,Solar,0.45,False
+CA,2009,Wind,2650.0,Reported,California,Wind,2.65,False
+CA,2009,Wood and Wood Derived Fuels,646.0,Reported,California,Wood-derived fuels,0.646,False
+CA,2010,Geothermal,2004.0,Reported,California,Geothermal,2.004,True
+CA,2010,Nuclear,4390.0,Reported,California,Nuclear,4.39,True
+CA,2010,Coal,374.0,Reported,California,Coal,0.374,False
+CA,2010,Hydroelectric,10141.0,Reported,California,Hydroelectric,10.141,False
+CA,2010,Natural Gas,41370.0,Reported,California,Natural gas,41.37,False
+CA,2010,Other,11.0,Reported,California,Other,0.011,False
+CA,2010,Other Biomass,389.0,Reported,California,Other biomass,0.389,False
+CA,2010,Other Gases,209.0,Reported,California,Other gases,0.209,False
+CA,2010,Petroleum,701.0,Reported,California,Petroleum,0.701,False
+CA,2010,Pumped Storage,3813.0,Reported,California,Pumped storage,3.813,False
+CA,2010,Solar Thermal and Photovoltaic,475.0,Reported,California,Solar,0.475,False
+CA,2010,Wind,2812.0,Reported,California,Wind,2.812,False
+CA,2010,Wood and Wood Derived Fuels,639.0,Reported,California,Wood-derived fuels,0.639,False
+CA,2011,Geothermal,2003.5,Reported,California,Geothermal,2.0035,True
+CA,2011,Nuclear,4390.0,Reported,California,Nuclear,4.39,True
+CA,2011,Coal,411.4,Reported,California,Coal,0.4114,False
+CA,2011,Hydroelectric,10136.1,Reported,California,Hydroelectric,10.1361,False
+CA,2011,Natural Gas,41274.4,Reported,California,Natural gas,41.2744,False
+CA,2011,Other,99.1,Reported,California,Other,0.0991,False
+CA,2011,Other Biomass,405.4,Reported,California,Other biomass,0.4054,False
+CA,2011,Other Gases,210.1,Reported,California,Other gases,0.21009999999999998,False
+CA,2011,Petroleum,516.6,Reported,California,Petroleum,0.5166000000000001,False
+CA,2011,Pumped Storage,3821.6,Reported,California,Pumped storage,3.8216,False
+CA,2011,Solar Thermal and Photovoltaic,618.0,Reported,California,Solar,0.618,False
+CA,2011,Wind,3770.1,Reported,California,Wind,3.7701,False
+CA,2011,Wood and Wood Derived Fuels,639.1,Reported,California,Wood-derived fuels,0.6391,False
+CA,2012,Geothermal,2092.3,Reported,California,Geothermal,2.0923000000000003,True
+CA,2012,Nuclear,4390.0,Reported,California,Nuclear,4.39,True
+CA,2012,Coal,350.5,Reported,California,Coal,0.3505,False
+CA,2012,Hydroelectric,10145.7,Reported,California,Hydroelectric,10.145700000000001,False
+CA,2012,Natural Gas,41575.7,Reported,California,Natural gas,41.5757,False
+CA,2012,Other,375.8,Reported,California,Other,0.3758,False
+CA,2012,Other Biomass,548.2,Reported,California,Other biomass,0.5482,False
+CA,2012,Other Gases,211.1,Reported,California,Other gases,0.21109999999999998,False
+CA,2012,Petroleum,396.9,Reported,California,Petroleum,0.3969,False
+CA,2012,Pumped Storage,3863.6,Reported,California,Pumped storage,3.8636,False
+CA,2012,Solar Thermal and Photovoltaic,1176.9,Reported,California,Solar,1.1769,False
+CA,2012,Wind,5506.3,Reported,California,Wind,5.5063,False
+CA,2012,Wood and Wood Derived Fuels,695.7,Reported,California,Wood-derived fuels,0.6957000000000001,False
+CA,2013,Geothermal,2059.4,Reported,California,Geothermal,2.0594,True
+CA,2013,Nuclear,2240.0,Reported,California,Nuclear,2.24,True
+CA,2013,Coal,252.8,Reported,California,Coal,0.2528,False
+CA,2013,Hydroelectric,10173.4,Reported,California,Hydroelectric,10.173399999999999,False
+CA,2013,Natural Gas,44012.6,Reported,California,Natural gas,44.0126,False
+CA,2013,Other,224.6,Reported,California,Other,0.2246,False
+CA,2013,Other Biomass,564.9,Reported,California,Other biomass,0.5649,False
+CA,2013,Other Gases,211.7,Reported,California,Other gases,0.2117,False
+CA,2013,Petroleum,450.1,Reported,California,Petroleum,0.4501,False
+CA,2013,Pumped Storage,3863.6,Reported,California,Pumped storage,3.8636,False
+CA,2013,Solar Thermal and Photovoltaic,3379.1,Reported,California,Solar,3.3790999999999998,False
+CA,2013,Wind,5600.0,Reported,California,Wind,5.6,False
+CA,2013,Wood and Wood Derived Fuels,739.8,Reported,California,Wood-derived fuels,0.7397999999999999,False
+CA,2014,Geothermal,1955.2,Reported,California,Geothermal,1.9552,True
+CA,2014,Nuclear,2240.0,Reported,California,Nuclear,2.24,True
+CA,2014,Coal,118.6,Reported,California,Coal,0.1186,False
+CA,2014,Hydroelectric,10175.1,Reported,California,Hydroelectric,10.1751,False
+CA,2014,Natural Gas,42326.7,Reported,California,Natural gas,42.326699999999995,False
+CA,2014,Other,461.6,Reported,California,Other,0.4616,False
+CA,2014,Other Biomass,591.5,Reported,California,Other biomass,0.5915,False
+CA,2014,Other Gases,211.7,Reported,California,Other gases,0.2117,False
+CA,2014,Petroleum,395.5,Reported,California,Petroleum,0.3955,False
+CA,2014,Pumped Storage,3869.3,Reported,California,Pumped storage,3.8693,False
+CA,2014,Solar Thermal and Photovoltaic,5754.5,Reported,California,Solar,5.7545,False
+CA,2014,Wind,5815.2,Reported,California,Wind,5.8152,False
+CA,2014,Wood and Wood Derived Fuels,731.3,Reported,California,Wood-derived fuels,0.7313,False
+CA,2015,Geothermal,1934.2,Reported,California,Geothermal,1.9342000000000001,True
+CA,2015,Nuclear,2240.0,Reported,California,Nuclear,2.24,True
+CA,2015,Coal,90.0,Reported,California,Coal,0.09,False
+CA,2015,Hydroelectric,10186.2,Reported,California,Hydroelectric,10.186200000000001,False
+CA,2015,Natural Gas,41761.2,Reported,California,Natural gas,41.761199999999995,False
+CA,2015,Other,116.8,Reported,California,Other,0.1168,False
+CA,2015,Other Biomass,552.2,Reported,California,Other biomass,0.5522,False
+CA,2015,Other Gases,209.3,Reported,California,Other gases,0.2093,False
+CA,2015,Petroleum,424.1,Reported,California,Petroleum,0.42410000000000003,False
+CA,2015,Pumped Storage,3869.3,Reported,California,Pumped storage,3.8693,False
+CA,2015,Solar Thermal and Photovoltaic,7011.7,Reported,California,Solar,7.011699999999999,False
+CA,2015,Wind,5726.8,Reported,California,Wind,5.7268,False
+CA,2015,Wood and Wood Derived Fuels,770.0,Reported,California,Wood-derived fuels,0.77,False
+CA,2016,Geothermal,1909.8,Reported,California,Geothermal,1.9098,True
+CA,2016,Nuclear,2240.0,Reported,California,Nuclear,2.24,True
+CA,2016,Coal,57.0,Reported,California,Coal,0.057,False
+CA,2016,Hydroelectric,10190.4,Reported,California,Hydroelectric,10.1904,False
+CA,2016,Natural Gas,40904.5,Reported,California,Natural gas,40.9045,False
+CA,2016,Other,223.8,Reported,California,Other,0.2238,False
+CA,2016,Other Biomass,520.4,Reported,California,Other biomass,0.5204,False
+CA,2016,Other Gases,229.3,Reported,California,Other gases,0.2293,False
+CA,2016,Petroleum,424.1,Reported,California,Petroleum,0.42410000000000003,False
+CA,2016,Pumped Storage,3911.9,Reported,California,Pumped storage,3.9119,False
+CA,2016,Solar Thermal and Photovoltaic,9489.2,Reported,California,Solar,9.4892,False
+CA,2016,Wind,5658.6,Reported,California,Wind,5.658600000000001,False
+CA,2016,Wood and Wood Derived Fuels,777.9,Reported,California,Wood-derived fuels,0.7778999999999999,False
+CA,2017,Geothermal,1838.0,Reported,California,Geothermal,1.838,True
+CA,2017,Nuclear,2240.0,Reported,California,Nuclear,2.24,True
+CA,2017,Coal,57.0,Reported,California,Coal,0.057,False
+CA,2017,Hydroelectric,10198.0,Reported,California,Hydroelectric,10.198,False
+CA,2017,Natural Gas,39433.9,Reported,California,Natural gas,39.4339,False
+CA,2017,Other,265.8,Reported,California,Other,0.26580000000000004,False
+CA,2017,Other Biomass,523.8,Reported,California,Other biomass,0.5237999999999999,False
+CA,2017,Other Gases,221.4,Reported,California,Other gases,0.2214,False
+CA,2017,Petroleum,472.7,Reported,California,Petroleum,0.4727,False
+CA,2017,Pumped Storage,3911.9,Reported,California,Pumped storage,3.9119,False
+CA,2017,Solar Thermal and Photovoltaic,10376.7,Reported,California,Solar,10.376700000000001,False
+CA,2017,Wind,5857.7,Reported,California,Wind,5.8576999999999995,False
+CA,2017,Wood and Wood Derived Fuels,713.7,Reported,California,Wood-derived fuels,0.7137,False
+CA,2018,Geothermal,1804.9,Reported,California,Geothermal,1.8049000000000002,True
+CA,2018,Nuclear,2240.0,Reported,California,Nuclear,2.24,True
+CA,2018,Coal,57.0,Reported,California,Coal,0.057,False
+CA,2018,Hydroelectric,10184.3,Reported,California,Hydroelectric,10.184299999999999,False
+CA,2018,Natural Gas,37795.1,Reported,California,Natural gas,37.7951,False
+CA,2018,Other,337.9,Reported,California,Other,0.3379,False
+CA,2018,Other Biomass,513.3,Reported,California,Other biomass,0.5133,False
+CA,2018,Other Gases,221.4,Reported,California,Other gases,0.2214,False
+CA,2018,Petroleum,473.2,Reported,California,Petroleum,0.4732,False
+CA,2018,Pumped Storage,3911.9,Reported,California,Pumped storage,3.9119,False
+CA,2018,Solar Thermal and Photovoltaic,11707.8,Reported,California,Solar,11.707799999999999,False
+CA,2018,Wind,6055.7,Reported,California,Wind,6.0557,False
+CA,2018,Wood and Wood Derived Fuels,692.4,Reported,California,Wood-derived fuels,0.6924,False
+CA,2019,Geothermal,1836.2,Reported,California,Geothermal,1.8362,True
+CA,2019,Nuclear,2240.0,Reported,California,Nuclear,2.24,True
+CA,2019,Coal,57.0,Reported,California,Coal,0.057,False
+CA,2019,Hydroelectric,10231.6,Reported,California,Hydroelectric,10.2316,False
+CA,2019,Natural Gas,36247.4,Reported,California,Natural gas,36.2474,False
+CA,2019,Other,358.8,Reported,California,Other,0.3588,False
+CA,2019,Other Biomass,497.7,Reported,California,Other biomass,0.4977,False
+CA,2019,Other Gases,221.4,Reported,California,Other gases,0.2214,False
+CA,2019,Petroleum,474.6,Reported,California,Petroleum,0.4746,False
+CA,2019,Pumped Storage,3807.1,Reported,California,Pumped storage,3.8070999999999997,False
+CA,2019,Solar Thermal and Photovoltaic,12663.8,Reported,California,Solar,12.663799999999998,False
+CA,2019,Wind,6140.5,Reported,California,Wind,6.1405,False
+CA,2019,Wood and Wood Derived Fuels,692.4,Reported,California,Wood-derived fuels,0.6924,False
+CA,2020,Geothermal,1849.9,Reported,California,Geothermal,1.8499,True
+CA,2020,Nuclear,2240.0,Reported,California,Nuclear,2.24,True
+CA,2020,Coal,57.0,Reported,California,Coal,0.057,False
+CA,2020,Hydroelectric,10267.7,Reported,California,Hydroelectric,10.267700000000001,False
+CA,2020,Natural Gas,36980.1,Reported,California,Natural gas,36.9801,False
+CA,2020,Other,648.5,Reported,California,Other,0.6485,False
+CA,2020,Other Biomass,499.9,Reported,California,Other biomass,0.49989999999999996,False
+CA,2020,Other Gases,207.6,Reported,California,Other gases,0.2076,False
+CA,2020,Petroleum,420.1,Reported,California,Petroleum,0.42010000000000003,False
+CA,2020,Pumped Storage,3911.9,Reported,California,Pumped storage,3.9119,False
+CA,2020,Solar Thermal and Photovoltaic,14343.5,Reported,California,Solar,14.3435,False
+CA,2020,Wind,5948.7,Reported,California,Wind,5.9487,False
+CA,2020,Wood and Wood Derived Fuels,680.4,Reported,California,Wood-derived fuels,0.6804,False
+CA,2021,Geothermal,1849.9,Reported,California,Geothermal,1.8499,True
+CA,2021,Nuclear,2240.0,Reported,California,Nuclear,2.24,True
+CA,2021,Coal,57.0,Reported,California,Coal,0.057,False
+CA,2021,Hydroelectric,10267.5,Reported,California,Hydroelectric,10.2675,False
+CA,2021,Natural Gas,37040.3,Reported,California,Natural gas,37.0403,False
+CA,2021,Other,2452.8,Reported,California,Other,2.4528000000000003,False
+CA,2021,Other Biomass,473.9,Reported,California,Other biomass,0.4739,False
+CA,2021,Other Gases,193.9,Reported,California,Other gases,0.19390000000000002,False
+CA,2021,Petroleum,419.3,Reported,California,Petroleum,0.4193,False
+CA,2021,Pumped Storage,3911.9,Reported,California,Pumped storage,3.9119,False
+CA,2021,Solar Thermal and Photovoltaic,15314.7,Reported,California,Solar,15.3147,False
+CA,2021,Wind,6175.7,Reported,California,Wind,6.1757,False
+CA,2021,Wood and Wood Derived Fuels,655.8,Reported,California,Wood-derived fuels,0.6557999999999999,False
+CA,2022,Geothermal,1866.8,Reported,California,Geothermal,1.8668,True
+CA,2022,Nuclear,2240.0,Reported,California,Nuclear,2.24,True
+CA,2022,Coal,57.0,Reported,California,Coal,0.057,False
+CA,2022,Hydroelectric,10263.3,Reported,California,Hydroelectric,10.2633,False
+CA,2022,Natural Gas,37238.9,Reported,California,Natural gas,37.2389,False
+CA,2022,Other,4958.8,Reported,California,Other,4.9588,False
+CA,2022,Other Biomass,475.4,Reported,California,Other biomass,0.4754,False
+CA,2022,Other Gases,194.6,Reported,California,Other gases,0.1946,False
+CA,2022,Petroleum,435.2,Reported,California,Petroleum,0.4352,False
+CA,2022,Pumped Storage,3911.9,Reported,California,Pumped storage,3.9119,False
+CA,2022,Solar Thermal and Photovoltaic,17551.1,Reported,California,Solar,17.551099999999998,False
+CA,2022,Wind,6145.5,Reported,California,Wind,6.1455,False
+CA,2022,Wood and Wood Derived Fuels,642.8,Reported,California,Wood-derived fuels,0.6427999999999999,False
+CA,2023,Geothermal,1885.0,Reported,California,Geothermal,1.885,True
+CA,2023,Nuclear,2240.0,Reported,California,Nuclear,2.24,True
+CA,2023,Coal,57.0,Reported,California,Coal,0.057,False
+CA,2023,Hydroelectric,10225.9,Reported,California,Hydroelectric,10.2259,False
+CA,2023,Natural Gas,36169.8,Reported,California,Natural gas,36.1698,False
+CA,2023,Other,8079.0,Reported,California,Other,8.079,False
+CA,2023,Other Biomass,476.0,Reported,California,Other biomass,0.476,False
+CA,2023,Other Gases,213.0,Reported,California,Other gases,0.213,False
+CA,2023,Petroleum,415.2,Reported,California,Petroleum,0.4152,False
+CA,2023,Pumped Storage,3911.9,Reported,California,Pumped storage,3.9119,False
+CA,2023,Solar Thermal and Photovoltaic,19775.1,Reported,California,Solar,19.7751,False
+CA,2023,Wind,6284.2,Reported,California,Wind,6.2842,False
+CA,2023,Wood and Wood Derived Fuels,642.8,Reported,California,Wood-derived fuels,0.6427999999999999,False
+CA,2024,Geothermal,1881.2,Reported,California,Geothermal,1.8812,True
+CA,2024,Nuclear,2240.0,Reported,California,Nuclear,2.24,True
+CA,2024,Coal,57.0,Reported,California,Coal,0.057,False
+CA,2024,Hydroelectric,10213.6,Reported,California,Hydroelectric,10.2136,False
+CA,2024,Natural Gas,36329.1,Reported,California,Natural gas,36.3291,False
+CA,2024,Other,11808.5,Reported,California,Other,11.8085,False
+CA,2024,Other Biomass,437.5,Reported,California,Other biomass,0.4375,False
+CA,2024,Other Gases,212.5,Reported,California,Other gases,0.2125,False
+CA,2024,Petroleum,442.2,Reported,California,Petroleum,0.4422,False
+CA,2024,Pumped Storage,3869.9,Reported,California,Pumped storage,3.8699,False
+CA,2024,Solar Thermal and Photovoltaic,22283.0,Reported,California,Solar,22.283,False
+CA,2024,Wind,6456.8,Reported,California,Wind,6.4568,False
+CA,2024,Wood and Wood Derived Fuels,541.9,Reported,California,Wood-derived fuels,0.5418999999999999,False
+WA,1990,Geothermal,0.0,Not listed,Washington,Geothermal,0.0,True
+WA,1990,Nuclear,1100.0,Reported,Washington,Nuclear,1.1,True
+WA,1990,Coal,1325.8,Reported,Washington,Coal,1.3257999999999999,False
+WA,1990,Hydroelectric,20728.7,Reported,Washington,Hydroelectric,20.7287,False
+WA,1990,Natural Gas,703.5,Reported,Washington,Natural gas,0.7035,False
+WA,1990,Other,0.0,Not listed,Washington,Other,0.0,False
+WA,1990,Other Biomass,10.1,Reported,Washington,Other biomass,0.0101,False
+WA,1990,Other Gases,0.0,Not listed,Washington,Other gases,0.0,False
+WA,1990,Petroleum,195.7,Reported,Washington,Petroleum,0.19569999999999999,False
+WA,1990,Pumped Storage,314.0,Reported,Washington,Pumped storage,0.314,False
+WA,1990,Solar Thermal and Photovoltaic,0.0,Not listed,Washington,Solar,0.0,False
+WA,1990,Wind,0.0,Not listed,Washington,Wind,0.0,False
+WA,1990,Wood and Wood Derived Fuels,167.6,Reported,Washington,Wood-derived fuels,0.1676,False
+WA,1991,Geothermal,0.0,Not listed,Washington,Geothermal,0.0,True
+WA,1991,Nuclear,1100.0,Reported,Washington,Nuclear,1.1,True
+WA,1991,Coal,1361.9,Reported,Washington,Coal,1.3619,False
+WA,1991,Hydroelectric,20745.6,Reported,Washington,Hydroelectric,20.7456,False
+WA,1991,Natural Gas,681.3,Reported,Washington,Natural gas,0.6812999999999999,False
+WA,1991,Other,0.0,Not listed,Washington,Other,0.0,False
+WA,1991,Other Biomass,30.3,Reported,Washington,Other biomass,0.0303,False
+WA,1991,Other Gases,0.0,Not listed,Washington,Other gases,0.0,False
+WA,1991,Petroleum,260.6,Reported,Washington,Petroleum,0.2606,False
+WA,1991,Pumped Storage,314.0,Reported,Washington,Pumped storage,0.314,False
+WA,1991,Solar Thermal and Photovoltaic,0.0,Not listed,Washington,Solar,0.0,False
+WA,1991,Wind,0.0,Not listed,Washington,Wind,0.0,False
+WA,1991,Wood and Wood Derived Fuels,200.4,Reported,Washington,Wood-derived fuels,0.2004,False
+WA,1992,Geothermal,0.0,Not listed,Washington,Geothermal,0.0,True
+WA,1992,Nuclear,1100.0,Reported,Washington,Nuclear,1.1,True
+WA,1992,Coal,1361.9,Reported,Washington,Coal,1.3619,False
+WA,1992,Hydroelectric,20727.7,Reported,Washington,Hydroelectric,20.727700000000002,False
+WA,1992,Natural Gas,753.9,Reported,Washington,Natural gas,0.7539,False
+WA,1992,Other,0.0,Not listed,Washington,Other,0.0,False
+WA,1992,Other Biomass,26.5,Reported,Washington,Other biomass,0.0265,False
+WA,1992,Other Gases,3.8,Reported,Washington,Other gases,0.0038,False
+WA,1992,Petroleum,173.3,Reported,Washington,Petroleum,0.1733,False
+WA,1992,Pumped Storage,314.0,Reported,Washington,Pumped storage,0.314,False
+WA,1992,Solar Thermal and Photovoltaic,0.0,Not listed,Washington,Solar,0.0,False
+WA,1992,Wind,0.0,Not listed,Washington,Wind,0.0,False
+WA,1992,Wood and Wood Derived Fuels,184.4,Reported,Washington,Wood-derived fuels,0.1844,False
+WA,1993,Geothermal,0.0,Not listed,Washington,Geothermal,0.0,True
+WA,1993,Nuclear,1100.0,Reported,Washington,Nuclear,1.1,True
+WA,1993,Coal,1391.9,Reported,Washington,Coal,1.3919000000000001,False
+WA,1993,Hydroelectric,20735.3,Reported,Washington,Hydroelectric,20.7353,False
+WA,1993,Natural Gas,1071.6,Reported,Washington,Natural gas,1.0715999999999999,False
+WA,1993,Other,0.0,Not listed,Washington,Other,0.0,False
+WA,1993,Other Biomass,33.0,Reported,Washington,Other biomass,0.033,False
+WA,1993,Other Gases,0.0,Not listed,Washington,Other gases,0.0,False
+WA,1993,Petroleum,173.3,Reported,Washington,Petroleum,0.1733,False
+WA,1993,Pumped Storage,314.0,Reported,Washington,Pumped storage,0.314,False
+WA,1993,Solar Thermal and Photovoltaic,0.0,Not listed,Washington,Solar,0.0,False
+WA,1993,Wind,0.0,Not listed,Washington,Wind,0.0,False
+WA,1993,Wood and Wood Derived Fuels,174.2,Reported,Washington,Wood-derived fuels,0.1742,False
+WA,1994,Geothermal,0.0,Not listed,Washington,Geothermal,0.0,True
+WA,1994,Nuclear,1086.0,Reported,Washington,Nuclear,1.086,True
+WA,1994,Coal,1391.9,Reported,Washington,Coal,1.3919000000000001,False
+WA,1994,Hydroelectric,20833.1,Reported,Washington,Hydroelectric,20.833099999999998,False
+WA,1994,Natural Gas,1268.6,Reported,Washington,Natural gas,1.2686,False
+WA,1994,Other,0.0,Not listed,Washington,Other,0.0,False
+WA,1994,Other Biomass,32.8,Reported,Washington,Other biomass,0.032799999999999996,False
+WA,1994,Other Gases,0.0,Not listed,Washington,Other gases,0.0,False
+WA,1994,Petroleum,87.5,Reported,Washington,Petroleum,0.0875,False
+WA,1994,Pumped Storage,314.0,Reported,Washington,Pumped storage,0.314,False
+WA,1994,Solar Thermal and Photovoltaic,0.0,Not listed,Washington,Solar,0.0,False
+WA,1994,Wind,0.0,Not listed,Washington,Wind,0.0,False
+WA,1994,Wood and Wood Derived Fuels,175.2,Reported,Washington,Wood-derived fuels,0.1752,False
+WA,1995,Geothermal,0.0,Not listed,Washington,Geothermal,0.0,True
+WA,1995,Nuclear,1107.0,Reported,Washington,Nuclear,1.107,True
+WA,1995,Coal,1341.9,Reported,Washington,Coal,1.3419,False
+WA,1995,Hydroelectric,20891.8,Reported,Washington,Hydroelectric,20.8918,False
+WA,1995,Natural Gas,1326.4,Reported,Washington,Natural gas,1.3264,False
+WA,1995,Other,0.0,Not listed,Washington,Other,0.0,False
+WA,1995,Other Biomass,30.3,Reported,Washington,Other biomass,0.0303,False
+WA,1995,Other Gases,0.0,Not listed,Washington,Other gases,0.0,False
+WA,1995,Petroleum,87.5,Reported,Washington,Petroleum,0.0875,False
+WA,1995,Pumped Storage,260.5,Reported,Washington,Pumped storage,0.2605,False
+WA,1995,Solar Thermal and Photovoltaic,0.0,Not listed,Washington,Solar,0.0,False
+WA,1995,Wind,0.0,Not listed,Washington,Wind,0.0,False
+WA,1995,Wood and Wood Derived Fuels,208.3,Reported,Washington,Wood-derived fuels,0.2083,False
+WA,1996,Geothermal,0.0,Not listed,Washington,Geothermal,0.0,True
+WA,1996,Nuclear,1107.0,Reported,Washington,Nuclear,1.107,True
+WA,1996,Coal,1391.9,Reported,Washington,Coal,1.3919000000000001,False
+WA,1996,Hydroelectric,20890.8,Reported,Washington,Hydroelectric,20.8908,False
+WA,1996,Natural Gas,1326.4,Reported,Washington,Natural gas,1.3264,False
+WA,1996,Other,0.0,Not listed,Washington,Other,0.0,False
+WA,1996,Other Biomass,30.3,Reported,Washington,Other biomass,0.0303,False
+WA,1996,Other Gases,0.0,Not listed,Washington,Other gases,0.0,False
+WA,1996,Petroleum,87.3,Reported,Washington,Petroleum,0.0873,False
+WA,1996,Pumped Storage,260.5,Reported,Washington,Pumped storage,0.2605,False
+WA,1996,Solar Thermal and Photovoltaic,0.0,Not listed,Washington,Solar,0.0,False
+WA,1996,Wind,0.0,Not listed,Washington,Wind,0.0,False
+WA,1996,Wood and Wood Derived Fuels,158.3,Reported,Washington,Wood-derived fuels,0.15830000000000002,False
+WA,1997,Geothermal,0.0,Not listed,Washington,Geothermal,0.0,True
+WA,1997,Nuclear,1170.0,Reported,Washington,Nuclear,1.17,True
+WA,1997,Coal,1391.9,Reported,Washington,Coal,1.3919000000000001,False
+WA,1997,Hydroelectric,21569.9,Reported,Washington,Hydroelectric,21.5699,False
+WA,1997,Natural Gas,1574.4,Reported,Washington,Natural gas,1.5744,False
+WA,1997,Other,0.0,Not listed,Washington,Other,0.0,False
+WA,1997,Other Biomass,30.3,Reported,Washington,Other biomass,0.0303,False
+WA,1997,Other Gases,0.0,Not listed,Washington,Other gases,0.0,False
+WA,1997,Petroleum,61.7,Reported,Washington,Petroleum,0.061700000000000005,False
+WA,1997,Pumped Storage,260.5,Reported,Washington,Pumped storage,0.2605,False
+WA,1997,Solar Thermal and Photovoltaic,0.0,Not listed,Washington,Solar,0.0,False
+WA,1997,Wind,0.0,Not listed,Washington,Wind,0.0,False
+WA,1997,Wood and Wood Derived Fuels,194.3,Reported,Washington,Wood-derived fuels,0.1943,False
+WA,1998,Geothermal,0.0,Not listed,Washington,Geothermal,0.0,True
+WA,1998,Nuclear,1123.0,Reported,Washington,Nuclear,1.123,True
+WA,1998,Coal,1391.9,Reported,Washington,Coal,1.3919000000000001,False
+WA,1998,Hydroelectric,21578.7,Reported,Washington,Hydroelectric,21.5787,False
+WA,1998,Natural Gas,1512.6,Reported,Washington,Natural gas,1.5126,False
+WA,1998,Other,0.0,Not listed,Washington,Other,0.0,False
+WA,1998,Other Biomass,33.0,Reported,Washington,Other biomass,0.033,False
+WA,1998,Other Gases,0.0,Not listed,Washington,Other gases,0.0,False
+WA,1998,Petroleum,61.7,Reported,Washington,Petroleum,0.061700000000000005,False
+WA,1998,Pumped Storage,260.5,Reported,Washington,Pumped storage,0.2605,False
+WA,1998,Solar Thermal and Photovoltaic,0.0,Not listed,Washington,Solar,0.0,False
+WA,1998,Wind,0.0,Not listed,Washington,Wind,0.0,False
+WA,1998,Wood and Wood Derived Fuels,205.7,Reported,Washington,Wood-derived fuels,0.2057,False
+WA,1999,Geothermal,0.0,Not listed,Washington,Geothermal,0.0,True
+WA,1999,Nuclear,1117.0,Reported,Washington,Nuclear,1.117,True
+WA,1999,Coal,1341.9,Reported,Washington,Coal,1.3419,False
+WA,1999,Hydroelectric,21520.6,Reported,Washington,Hydroelectric,21.520599999999998,False
+WA,1999,Natural Gas,1545.0,Reported,Washington,Natural gas,1.545,False
+WA,1999,Other,0.0,Not listed,Washington,Other,0.0,False
+WA,1999,Other Biomass,39.1,Reported,Washington,Other biomass,0.0391,False
+WA,1999,Other Gases,0.0,Not listed,Washington,Other gases,0.0,False
+WA,1999,Petroleum,3.7,Reported,Washington,Petroleum,0.0037,False
+WA,1999,Pumped Storage,260.5,Reported,Washington,Pumped storage,0.2605,False
+WA,1999,Solar Thermal and Photovoltaic,0.0,Not listed,Washington,Solar,0.0,False
+WA,1999,Wind,0.0,Not listed,Washington,Wind,0.0,False
+WA,1999,Wood and Wood Derived Fuels,254.6,Reported,Washington,Wood-derived fuels,0.2546,False
+WA,2000,Geothermal,0.0,Not listed,Washington,Geothermal,0.0,True
+WA,2000,Nuclear,1112.0,Reported,Washington,Nuclear,1.112,True
+WA,2000,Coal,1355.0,Reported,Washington,Coal,1.355,False
+WA,2000,Hydroelectric,21461.0,Reported,Washington,Hydroelectric,21.461,False
+WA,2000,Natural Gas,1483.0,Reported,Washington,Natural gas,1.483,False
+WA,2000,Other,0.0,Not listed,Washington,Other,0.0,False
+WA,2000,Other Biomass,43.0,Reported,Washington,Other biomass,0.043,False
+WA,2000,Other Gases,0.0,Not listed,Washington,Other gases,0.0,False
+WA,2000,Petroleum,4.0,Reported,Washington,Petroleum,0.004,False
+WA,2000,Pumped Storage,314.0,Reported,Washington,Pumped storage,0.314,False
+WA,2000,Solar Thermal and Photovoltaic,0.0,Not listed,Washington,Solar,0.0,False
+WA,2000,Wind,0.0,Not listed,Washington,Wind,0.0,False
+WA,2000,Wood and Wood Derived Fuels,293.0,Reported,Washington,Wood-derived fuels,0.293,False
+WA,2001,Geothermal,0.0,Not listed,Washington,Geothermal,0.0,True
+WA,2001,Nuclear,1108.0,Reported,Washington,Nuclear,1.108,True
+WA,2001,Coal,1407.0,Reported,Washington,Coal,1.407,False
+WA,2001,Hydroelectric,21453.0,Reported,Washington,Hydroelectric,21.453,False
+WA,2001,Natural Gas,1546.0,Reported,Washington,Natural gas,1.546,False
+WA,2001,Other,0.0,Not listed,Washington,Other,0.0,False
+WA,2001,Other Biomass,42.0,Reported,Washington,Other biomass,0.042,False
+WA,2001,Other Gases,0.0,Not listed,Washington,Other gases,0.0,False
+WA,2001,Petroleum,301.0,Reported,Washington,Petroleum,0.301,False
+WA,2001,Pumped Storage,314.0,Reported,Washington,Pumped storage,0.314,False
+WA,2001,Solar Thermal and Photovoltaic,0.0,Not listed,Washington,Solar,0.0,False
+WA,2001,Wind,180.0,Reported,Washington,Wind,0.18,False
+WA,2001,Wood and Wood Derived Fuels,294.0,Reported,Washington,Wood-derived fuels,0.294,False
+WA,2002,Geothermal,0.0,Not listed,Washington,Geothermal,0.0,True
+WA,2002,Nuclear,1108.0,Reported,Washington,Nuclear,1.108,True
+WA,2002,Coal,1407.0,Reported,Washington,Coal,1.407,False
+WA,2002,Hydroelectric,21464.0,Reported,Washington,Hydroelectric,21.464,False
+WA,2002,Natural Gas,2085.0,Reported,Washington,Natural gas,2.085,False
+WA,2002,Other,0.0,Not listed,Washington,Other,0.0,False
+WA,2002,Other Biomass,42.0,Reported,Washington,Other biomass,0.042,False
+WA,2002,Other Gases,0.0,Not listed,Washington,Other gases,0.0,False
+WA,2002,Petroleum,216.0,Reported,Washington,Petroleum,0.216,False
+WA,2002,Pumped Storage,314.0,Reported,Washington,Pumped storage,0.314,False
+WA,2002,Solar Thermal and Photovoltaic,0.0,Not listed,Washington,Solar,0.0,False
+WA,2002,Wind,225.0,Reported,Washington,Wind,0.225,False
+WA,2002,Wood and Wood Derived Fuels,252.0,Reported,Washington,Wood-derived fuels,0.252,False
+WA,2003,Geothermal,0.0,Not listed,Washington,Geothermal,0.0,True
+WA,2003,Nuclear,1108.0,Reported,Washington,Nuclear,1.108,True
+WA,2003,Coal,1407.0,Reported,Washington,Coal,1.407,False
+WA,2003,Hydroelectric,21457.0,Reported,Washington,Hydroelectric,21.457,False
+WA,2003,Natural Gas,2586.0,Reported,Washington,Natural gas,2.586,False
+WA,2003,Other,0.0,Not listed,Washington,Other,0.0,False
+WA,2003,Other Biomass,44.0,Reported,Washington,Other biomass,0.044,False
+WA,2003,Other Gases,0.0,Not listed,Washington,Other gases,0.0,False
+WA,2003,Petroleum,215.0,Reported,Washington,Petroleum,0.215,False
+WA,2003,Pumped Storage,314.0,Reported,Washington,Pumped storage,0.314,False
+WA,2003,Solar Thermal and Photovoltaic,0.0,Not listed,Washington,Solar,0.0,False
+WA,2003,Wind,228.0,Reported,Washington,Wind,0.228,False
+WA,2003,Wood and Wood Derived Fuels,330.0,Reported,Washington,Wood-derived fuels,0.33,False
+WA,2004,Geothermal,0.0,Not listed,Washington,Geothermal,0.0,True
+WA,2004,Nuclear,1122.0,Reported,Washington,Nuclear,1.122,True
+WA,2004,Coal,1407.0,Reported,Washington,Coal,1.407,False
+WA,2004,Hydroelectric,21070.0,Reported,Washington,Hydroelectric,21.07,False
+WA,2004,Natural Gas,3013.0,Reported,Washington,Natural gas,3.013,False
+WA,2004,Other,0.0,Not listed,Washington,Other,0.0,False
+WA,2004,Other Biomass,39.0,Reported,Washington,Other biomass,0.039,False
+WA,2004,Other Gases,0.0,Not listed,Washington,Other gases,0.0,False
+WA,2004,Petroleum,39.0,Reported,Washington,Petroleum,0.039,False
+WA,2004,Pumped Storage,314.0,Reported,Washington,Pumped storage,0.314,False
+WA,2004,Solar Thermal and Photovoltaic,0.0,Not listed,Washington,Solar,0.0,False
+WA,2004,Wind,243.0,Reported,Washington,Wind,0.243,False
+WA,2004,Wood and Wood Derived Fuels,326.0,Reported,Washington,Wood-derived fuels,0.326,False
+WA,2005,Geothermal,0.0,Not listed,Washington,Geothermal,0.0,True
+WA,2005,Nuclear,1131.0,Reported,Washington,Nuclear,1.131,True
+WA,2005,Coal,1405.0,Reported,Washington,Coal,1.405,False
+WA,2005,Hydroelectric,21146.0,Reported,Washington,Hydroelectric,21.146,False
+WA,2005,Natural Gas,2994.0,Reported,Washington,Natural gas,2.994,False
+WA,2005,Other,0.0,Not listed,Washington,Other,0.0,False
+WA,2005,Other Biomass,39.0,Reported,Washington,Other biomass,0.039,False
+WA,2005,Other Gases,0.0,Not listed,Washington,Other gases,0.0,False
+WA,2005,Petroleum,40.0,Reported,Washington,Petroleum,0.04,False
+WA,2005,Pumped Storage,314.0,Reported,Washington,Pumped storage,0.314,False
+WA,2005,Solar Thermal and Photovoltaic,0.0,Not listed,Washington,Solar,0.0,False
+WA,2005,Wind,393.0,Reported,Washington,Wind,0.393,False
+WA,2005,Wood and Wood Derived Fuels,328.0,Reported,Washington,Wood-derived fuels,0.328,False
+WA,2006,Geothermal,0.0,Not listed,Washington,Geothermal,0.0,True
+WA,2006,Nuclear,1131.0,Reported,Washington,Nuclear,1.131,True
+WA,2006,Coal,1405.0,Reported,Washington,Coal,1.405,False
+WA,2006,Hydroelectric,21156.0,Reported,Washington,Hydroelectric,21.156,False
+WA,2006,Natural Gas,2991.0,Reported,Washington,Natural gas,2.991,False
+WA,2006,Other,0.0,Not listed,Washington,Other,0.0,False
+WA,2006,Other Biomass,39.0,Reported,Washington,Other biomass,0.039,False
+WA,2006,Other Gases,0.0,Not listed,Washington,Other gases,0.0,False
+WA,2006,Petroleum,40.0,Reported,Washington,Petroleum,0.04,False
+WA,2006,Pumped Storage,314.0,Reported,Washington,Pumped storage,0.314,False
+WA,2006,Solar Thermal and Photovoltaic,0.0,Not listed,Washington,Solar,0.0,False
+WA,2006,Wind,821.0,Reported,Washington,Wind,0.821,False
+WA,2006,Wood and Wood Derived Fuels,326.0,Reported,Washington,Wood-derived fuels,0.326,False
+WA,2007,Geothermal,0.0,Not listed,Washington,Geothermal,0.0,True
+WA,2007,Nuclear,1131.0,Reported,Washington,Nuclear,1.131,True
+WA,2007,Coal,1405.0,Reported,Washington,Coal,1.405,False
+WA,2007,Hydroelectric,21333.0,Reported,Washington,Hydroelectric,21.333,False
+WA,2007,Natural Gas,2933.0,Reported,Washington,Natural gas,2.933,False
+WA,2007,Other,0.0,Not listed,Washington,Other,0.0,False
+WA,2007,Other Biomass,36.0,Reported,Washington,Other biomass,0.036,False
+WA,2007,Other Gases,0.0,Not listed,Washington,Other gases,0.0,False
+WA,2007,Petroleum,4.0,Reported,Washington,Petroleum,0.004,False
+WA,2007,Pumped Storage,314.0,Reported,Washington,Pumped storage,0.314,False
+WA,2007,Solar Thermal and Photovoltaic,1.0,Reported,Washington,Solar,0.001,False
+WA,2007,Wind,1162.0,Reported,Washington,Wind,1.162,False
+WA,2007,Wood and Wood Derived Fuels,296.0,Reported,Washington,Wood-derived fuels,0.296,False
+WA,2008,Geothermal,0.0,Not listed,Washington,Geothermal,0.0,True
+WA,2008,Nuclear,1131.0,Reported,Washington,Nuclear,1.131,True
+WA,2008,Coal,1376.0,Reported,Washington,Coal,1.376,False
+WA,2008,Hydroelectric,21203.0,Reported,Washington,Hydroelectric,21.203,False
+WA,2008,Natural Gas,3750.0,Reported,Washington,Natural gas,3.75,False
+WA,2008,Other,0.0,Not listed,Washington,Other,0.0,False
+WA,2008,Other Biomass,36.0,Reported,Washington,Other biomass,0.036,False
+WA,2008,Other Gases,0.0,Not listed,Washington,Other gases,0.0,False
+WA,2008,Petroleum,4.0,Reported,Washington,Petroleum,0.004,False
+WA,2008,Pumped Storage,314.0,Reported,Washington,Pumped storage,0.314,False
+WA,2008,Solar Thermal and Photovoltaic,1.0,Reported,Washington,Solar,0.001,False
+WA,2008,Wind,1365.0,Reported,Washington,Wind,1.365,False
+WA,2008,Wood and Wood Derived Fuels,314.0,Reported,Washington,Wood-derived fuels,0.314,False
+WA,2009,Geothermal,0.0,Not listed,Washington,Geothermal,0.0,True
+WA,2009,Nuclear,1131.0,Reported,Washington,Nuclear,1.131,True
+WA,2009,Coal,1376.0,Reported,Washington,Coal,1.376,False
+WA,2009,Hydroelectric,21088.0,Reported,Washington,Hydroelectric,21.088,False
+WA,2009,Natural Gas,3764.0,Reported,Washington,Natural gas,3.764,False
+WA,2009,Other,0.0,Not listed,Washington,Other,0.0,False
+WA,2009,Other Biomass,41.0,Reported,Washington,Other biomass,0.041,False
+WA,2009,Other Gases,0.0,Not listed,Washington,Other gases,0.0,False
+WA,2009,Petroleum,5.0,Reported,Washington,Petroleum,0.005,False
+WA,2009,Pumped Storage,314.0,Reported,Washington,Pumped storage,0.314,False
+WA,2009,Solar Thermal and Photovoltaic,1.0,Reported,Washington,Solar,0.001,False
+WA,2009,Wind,2006.0,Reported,Washington,Wind,2.006,False
+WA,2009,Wood and Wood Derived Fuels,369.0,Reported,Washington,Wood-derived fuels,0.369,False
+WA,2010,Geothermal,0.0,Not listed,Washington,Geothermal,0.0,True
+WA,2010,Nuclear,1097.0,Reported,Washington,Nuclear,1.097,True
+WA,2010,Coal,1340.0,Reported,Washington,Coal,1.34,False
+WA,2010,Hydroelectric,21181.0,Reported,Washington,Hydroelectric,21.181,False
+WA,2010,Natural Gas,3828.0,Reported,Washington,Natural gas,3.828,False
+WA,2010,Other,0.0,Not listed,Washington,Other,0.0,False
+WA,2010,Other Biomass,39.0,Reported,Washington,Other biomass,0.039,False
+WA,2010,Other Gases,0.0,Not listed,Washington,Other gases,0.0,False
+WA,2010,Petroleum,15.0,Reported,Washington,Petroleum,0.015,False
+WA,2010,Pumped Storage,314.0,Reported,Washington,Pumped storage,0.314,False
+WA,2010,Solar Thermal and Photovoltaic,1.0,Reported,Washington,Solar,0.001,False
+WA,2010,Wind,2296.0,Reported,Washington,Wind,2.296,False
+WA,2010,Wood and Wood Derived Fuels,368.0,Reported,Washington,Wood-derived fuels,0.368,False
+WA,2011,Geothermal,0.0,Not listed,Washington,Geothermal,0.0,True
+WA,2011,Nuclear,1097.0,Reported,Washington,Nuclear,1.097,True
+WA,2011,Coal,1340.0,Reported,Washington,Coal,1.34,False
+WA,2011,Hydroelectric,21067.3,Reported,Washington,Hydroelectric,21.0673,False
+WA,2011,Natural Gas,3827.5,Reported,Washington,Natural gas,3.8275,False
+WA,2011,Other,9.4,Reported,Washington,Other,0.0094,False
+WA,2011,Other Biomass,64.6,Reported,Washington,Other biomass,0.06459999999999999,False
+WA,2011,Other Gases,0.0,Not listed,Washington,Other gases,0.0,False
+WA,2011,Petroleum,15.2,Reported,Washington,Petroleum,0.0152,False
+WA,2011,Pumped Storage,314.0,Reported,Washington,Pumped storage,0.314,False
+WA,2011,Solar Thermal and Photovoltaic,0.5,Reported,Washington,Solar,0.0005,False
+WA,2011,Wind,2453.5,Reported,Washington,Wind,2.4535,False
+WA,2011,Wood and Wood Derived Fuels,318.0,Reported,Washington,Wood-derived fuels,0.318,False
+WA,2012,Geothermal,0.0,Not listed,Washington,Geothermal,0.0,True
+WA,2012,Nuclear,1132.0,Reported,Washington,Nuclear,1.132,True
+WA,2012,Coal,1340.0,Reported,Washington,Coal,1.34,False
+WA,2012,Hydroelectric,21114.9,Reported,Washington,Hydroelectric,21.114900000000002,False
+WA,2012,Natural Gas,3794.5,Reported,Washington,Natural gas,3.7945,False
+WA,2012,Other,10.0,Reported,Washington,Other,0.01,False
+WA,2012,Other Biomass,69.2,Reported,Washington,Other biomass,0.0692,False
+WA,2012,Other Gases,0.0,Not listed,Washington,Other gases,0.0,False
+WA,2012,Petroleum,15.2,Reported,Washington,Petroleum,0.0152,False
+WA,2012,Pumped Storage,314.0,Reported,Washington,Pumped storage,0.314,False
+WA,2012,Solar Thermal and Photovoltaic,0.5,Reported,Washington,Solar,0.0005,False
+WA,2012,Wind,2806.2,Reported,Washington,Wind,2.8062,False
+WA,2012,Wood and Wood Derived Fuels,313.5,Reported,Washington,Wood-derived fuels,0.3135,False
+WA,2013,Geothermal,0.0,Not listed,Washington,Geothermal,0.0,True
+WA,2013,Nuclear,1133.0,Reported,Washington,Nuclear,1.133,True
+WA,2013,Coal,1340.0,Reported,Washington,Coal,1.34,False
+WA,2013,Hydroelectric,21149.6,Reported,Washington,Hydroelectric,21.1496,False
+WA,2013,Natural Gas,3437.7,Reported,Washington,Natural gas,3.4377,False
+WA,2013,Other,56.8,Reported,Washington,Other,0.056799999999999996,False
+WA,2013,Other Biomass,67.7,Reported,Washington,Other biomass,0.0677,False
+WA,2013,Other Gases,0.0,Not listed,Washington,Other gases,0.0,False
+WA,2013,Petroleum,15.2,Reported,Washington,Petroleum,0.0152,False
+WA,2013,Pumped Storage,314.0,Reported,Washington,Pumped storage,0.314,False
+WA,2013,Solar Thermal and Photovoltaic,0.5,Reported,Washington,Solar,0.0005,False
+WA,2013,Wind,2806.3,Reported,Washington,Wind,2.8063000000000002,False
+WA,2013,Wood and Wood Derived Fuels,335.5,Reported,Washington,Wood-derived fuels,0.3355,False
+WA,2014,Geothermal,0.0,Not listed,Washington,Geothermal,0.0,True
+WA,2014,Nuclear,1137.0,Reported,Washington,Nuclear,1.137,True
+WA,2014,Coal,1340.0,Reported,Washington,Coal,1.34,False
+WA,2014,Hydroelectric,21184.7,Reported,Washington,Hydroelectric,21.1847,False
+WA,2014,Natural Gas,3381.8,Reported,Washington,Natural gas,3.3818,False
+WA,2014,Other,112.7,Reported,Washington,Other,0.11270000000000001,False
+WA,2014,Other Biomass,67.7,Reported,Washington,Other biomass,0.0677,False
+WA,2014,Other Gases,0.0,Not listed,Washington,Other gases,0.0,False
+WA,2014,Petroleum,15.2,Reported,Washington,Petroleum,0.0152,False
+WA,2014,Pumped Storage,314.0,Reported,Washington,Pumped storage,0.314,False
+WA,2014,Solar Thermal and Photovoltaic,0.5,Reported,Washington,Solar,0.0005,False
+WA,2014,Wind,3073.1,Reported,Washington,Wind,3.0730999999999997,False
+WA,2014,Wood and Wood Derived Fuels,322.3,Reported,Washington,Wood-derived fuels,0.32230000000000003,False
+WA,2015,Geothermal,0.0,Not listed,Washington,Geothermal,0.0,True
+WA,2015,Nuclear,1158.0,Reported,Washington,Nuclear,1.158,True
+WA,2015,Coal,1340.0,Reported,Washington,Coal,1.34,False
+WA,2015,Hydroelectric,21242.2,Reported,Washington,Hydroelectric,21.2422,False
+WA,2015,Natural Gas,3452.5,Reported,Washington,Natural gas,3.4525,False
+WA,2015,Other,1.0,Reported,Washington,Other,0.001,False
+WA,2015,Other Biomass,73.7,Reported,Washington,Other biomass,0.0737,False
+WA,2015,Other Gases,0.0,Not listed,Washington,Other gases,0.0,False
+WA,2015,Petroleum,15.2,Reported,Washington,Petroleum,0.0152,False
+WA,2015,Pumped Storage,314.0,Reported,Washington,Pumped storage,0.314,False
+WA,2015,Solar Thermal and Photovoltaic,0.5,Reported,Washington,Solar,0.0005,False
+WA,2015,Wind,3073.1,Reported,Washington,Wind,3.0730999999999997,False
+WA,2015,Wood and Wood Derived Fuels,332.3,Reported,Washington,Wood-derived fuels,0.3323,False
+WA,2016,Geothermal,0.0,Not listed,Washington,Geothermal,0.0,True
+WA,2016,Nuclear,1160.0,Reported,Washington,Nuclear,1.16,True
+WA,2016,Coal,1340.0,Reported,Washington,Coal,1.34,False
+WA,2016,Hydroelectric,21295.7,Reported,Washington,Hydroelectric,21.2957,False
+WA,2016,Natural Gas,3388.5,Reported,Washington,Natural gas,3.3885,False
+WA,2016,Other,5.2,Reported,Washington,Other,0.0052,False
+WA,2016,Other Biomass,73.7,Reported,Washington,Other biomass,0.0737,False
+WA,2016,Other Gases,0.0,Not listed,Washington,Other gases,0.0,False
+WA,2016,Petroleum,15.2,Reported,Washington,Petroleum,0.0152,False
+WA,2016,Pumped Storage,314.0,Reported,Washington,Pumped storage,0.314,False
+WA,2016,Solar Thermal and Photovoltaic,0.5,Reported,Washington,Solar,0.0005,False
+WA,2016,Wind,3073.1,Reported,Washington,Wind,3.0730999999999997,False
+WA,2016,Wood and Wood Derived Fuels,330.7,Reported,Washington,Wood-derived fuels,0.3307,False
+WA,2017,Geothermal,0.0,Not listed,Washington,Geothermal,0.0,True
+WA,2017,Nuclear,1177.0,Reported,Washington,Nuclear,1.177,True
+WA,2017,Coal,1340.0,Reported,Washington,Coal,1.34,False
+WA,2017,Hydroelectric,21214.5,Reported,Washington,Hydroelectric,21.2145,False
+WA,2017,Natural Gas,3404.6,Reported,Washington,Natural gas,3.4046,False
+WA,2017,Other,7.4,Reported,Washington,Other,0.0074,False
+WA,2017,Other Biomass,73.7,Reported,Washington,Other biomass,0.0737,False
+WA,2017,Other Gases,0.0,Not listed,Washington,Other gases,0.0,False
+WA,2017,Petroleum,15.2,Reported,Washington,Petroleum,0.0152,False
+WA,2017,Pumped Storage,314.0,Reported,Washington,Pumped storage,0.314,False
+WA,2017,Solar Thermal and Photovoltaic,0.5,Reported,Washington,Solar,0.0005,False
+WA,2017,Wind,3073.1,Reported,Washington,Wind,3.0730999999999997,False
+WA,2017,Wood and Wood Derived Fuels,337.0,Reported,Washington,Wood-derived fuels,0.337,False
+WA,2018,Geothermal,0.0,Not listed,Washington,Geothermal,0.0,True
+WA,2018,Nuclear,1163.0,Reported,Washington,Nuclear,1.163,True
+WA,2018,Coal,1340.0,Reported,Washington,Coal,1.34,False
+WA,2018,Hydroelectric,21281.1,Reported,Washington,Hydroelectric,21.2811,False
+WA,2018,Natural Gas,3386.6,Reported,Washington,Natural gas,3.3866,False
+WA,2018,Other,6.2,Reported,Washington,Other,0.0062,False
+WA,2018,Other Biomass,73.7,Reported,Washington,Other biomass,0.0737,False
+WA,2018,Other Gases,0.0,Not listed,Washington,Other gases,0.0,False
+WA,2018,Petroleum,15.2,Reported,Washington,Petroleum,0.0152,False
+WA,2018,Pumped Storage,314.0,Reported,Washington,Pumped storage,0.314,False
+WA,2018,Solar Thermal and Photovoltaic,19.7,Reported,Washington,Solar,0.0197,False
+WA,2018,Wind,3073.1,Reported,Washington,Wind,3.0730999999999997,False
+WA,2018,Wood and Wood Derived Fuels,310.7,Reported,Washington,Wood-derived fuels,0.3107,False
+WA,2019,Geothermal,0.0,Not listed,Washington,Geothermal,0.0,True
+WA,2019,Nuclear,1163.0,Reported,Washington,Nuclear,1.163,True
+WA,2019,Coal,1340.0,Reported,Washington,Coal,1.34,False
+WA,2019,Hydroelectric,21225.4,Reported,Washington,Hydroelectric,21.2254,False
+WA,2019,Natural Gas,3386.4,Reported,Washington,Natural gas,3.3864,False
+WA,2019,Other,6.2,Reported,Washington,Other,0.0062,False
+WA,2019,Other Biomass,73.7,Reported,Washington,Other biomass,0.0737,False
+WA,2019,Other Gases,0.0,Not listed,Washington,Other gases,0.0,False
+WA,2019,Petroleum,15.2,Reported,Washington,Petroleum,0.0152,False
+WA,2019,Pumped Storage,314.0,Reported,Washington,Pumped storage,0.314,False
+WA,2019,Solar Thermal and Photovoltaic,19.7,Reported,Washington,Solar,0.0197,False
+WA,2019,Wind,3073.1,Reported,Washington,Wind,3.0730999999999997,False
+WA,2019,Wood and Wood Derived Fuels,310.7,Reported,Washington,Wood-derived fuels,0.3107,False
+WA,2020,Geothermal,0.0,Not listed,Washington,Geothermal,0.0,True
+WA,2020,Nuclear,1151.0,Reported,Washington,Nuclear,1.151,True
+WA,2020,Coal,670.0,Reported,Washington,Coal,0.67,False
+WA,2020,Hydroelectric,21344.6,Reported,Washington,Hydroelectric,21.3446,False
+WA,2020,Natural Gas,3386.4,Reported,Washington,Natural gas,3.3864,False
+WA,2020,Other,5.0,Reported,Washington,Other,0.005,False
+WA,2020,Other Biomass,73.7,Reported,Washington,Other biomass,0.0737,False
+WA,2020,Other Gases,0.0,Not listed,Washington,Other gases,0.0,False
+WA,2020,Petroleum,15.2,Reported,Washington,Petroleum,0.0152,False
+WA,2020,Pumped Storage,314.0,Reported,Washington,Pumped storage,0.314,False
+WA,2020,Solar Thermal and Photovoltaic,23.4,Reported,Washington,Solar,0.023399999999999997,False
+WA,2020,Wind,3374.9,Reported,Washington,Wind,3.3749000000000002,False
+WA,2020,Wood and Wood Derived Fuels,310.7,Reported,Washington,Wood-derived fuels,0.3107,False
+WA,2021,Geothermal,0.0,Not listed,Washington,Geothermal,0.0,True
+WA,2021,Nuclear,1151.0,Reported,Washington,Nuclear,1.151,True
+WA,2021,Coal,670.0,Reported,Washington,Coal,0.67,False
+WA,2021,Hydroelectric,21358.6,Reported,Washington,Hydroelectric,21.3586,False
+WA,2021,Natural Gas,3377.4,Reported,Washington,Natural gas,3.3774,False
+WA,2021,Other,6.0,Reported,Washington,Other,0.006,False
+WA,2021,Other Biomass,37.2,Reported,Washington,Other biomass,0.037200000000000004,False
+WA,2021,Other Gases,0.0,Not listed,Washington,Other gases,0.0,False
+WA,2021,Petroleum,15.2,Reported,Washington,Petroleum,0.0152,False
+WA,2021,Pumped Storage,314.0,Reported,Washington,Pumped storage,0.314,False
+WA,2021,Solar Thermal and Photovoltaic,23.4,Reported,Washington,Solar,0.023399999999999997,False
+WA,2021,Wind,3374.9,Reported,Washington,Wind,3.3749000000000002,False
+WA,2021,Wood and Wood Derived Fuels,281.0,Reported,Washington,Wood-derived fuels,0.281,False
+WA,2022,Geothermal,0.0,Not listed,Washington,Geothermal,0.0,True
+WA,2022,Nuclear,1151.0,Reported,Washington,Nuclear,1.151,True
+WA,2022,Coal,670.0,Reported,Washington,Coal,0.67,False
+WA,2022,Hydroelectric,21428.6,Reported,Washington,Hydroelectric,21.4286,False
+WA,2022,Natural Gas,3372.4,Reported,Washington,Natural gas,3.3724000000000003,False
+WA,2022,Other,6.0,Reported,Washington,Other,0.006,False
+WA,2022,Other Biomass,37.2,Reported,Washington,Other biomass,0.037200000000000004,False
+WA,2022,Other Gases,0.0,Not listed,Washington,Other gases,0.0,False
+WA,2022,Petroleum,17.2,Reported,Washington,Petroleum,0.0172,False
+WA,2022,Pumped Storage,314.0,Reported,Washington,Pumped storage,0.314,False
+WA,2022,Solar Thermal and Photovoltaic,188.4,Reported,Washington,Solar,0.1884,False
+WA,2022,Wind,3374.9,Reported,Washington,Wind,3.3749000000000002,False
+WA,2022,Wood and Wood Derived Fuels,293.0,Reported,Washington,Wood-derived fuels,0.293,False
+WA,2023,Geothermal,0.0,Not listed,Washington,Geothermal,0.0,True
+WA,2023,Nuclear,1151.0,Reported,Washington,Nuclear,1.151,True
+WA,2023,Coal,670.0,Reported,Washington,Coal,0.67,False
+WA,2023,Hydroelectric,21511.9,Reported,Washington,Hydroelectric,21.5119,False
+WA,2023,Natural Gas,3375.4,Reported,Washington,Natural gas,3.3754,False
+WA,2023,Other,6.0,Reported,Washington,Other,0.006,False
+WA,2023,Other Biomass,37.2,Reported,Washington,Other biomass,0.037200000000000004,False
+WA,2023,Other Gases,0.0,Not listed,Washington,Other gases,0.0,False
+WA,2023,Petroleum,17.2,Reported,Washington,Petroleum,0.0172,False
+WA,2023,Pumped Storage,314.0,Reported,Washington,Pumped storage,0.314,False
+WA,2023,Solar Thermal and Photovoltaic,188.3,Reported,Washington,Solar,0.18830000000000002,False
+WA,2023,Wind,3374.9,Reported,Washington,Wind,3.3749000000000002,False
+WA,2023,Wood and Wood Derived Fuels,238.0,Reported,Washington,Wood-derived fuels,0.238,False
+WA,2024,Geothermal,0.0,Not listed,Washington,Geothermal,0.0,True
+WA,2024,Nuclear,1151.0,Reported,Washington,Nuclear,1.151,True
+WA,2024,Coal,670.0,Reported,Washington,Coal,0.67,False
+WA,2024,Hydroelectric,21513.3,Reported,Washington,Hydroelectric,21.5133,False
+WA,2024,Natural Gas,3385.4,Reported,Washington,Natural gas,3.3854,False
+WA,2024,Other,6.0,Reported,Washington,Other,0.006,False
+WA,2024,Other Biomass,31.8,Reported,Washington,Other biomass,0.0318,False
+WA,2024,Other Gases,0.0,Not listed,Washington,Other gases,0.0,False
+WA,2024,Petroleum,22.6,Reported,Washington,Petroleum,0.022600000000000002,False
+WA,2024,Pumped Storage,314.0,Reported,Washington,Pumped storage,0.314,False
+WA,2024,Solar Thermal and Photovoltaic,268.3,Reported,Washington,Solar,0.26830000000000004,False
+WA,2024,Wind,3374.9,Reported,Washington,Wind,3.3749000000000002,False
+WA,2024,Wood and Wood Derived Fuels,238.0,Reported,Washington,Wood-derived fuels,0.238,False
+OR,1990,Geothermal,0.0,Not listed,Oregon,Geothermal,0.0,True
+OR,1990,Nuclear,1104.0,Reported,Oregon,Nuclear,1.104,True
+OR,1990,Coal,543.1,Reported,Oregon,Coal,0.5431,False
+OR,1990,Hydroelectric,9081.6,Reported,Oregon,Hydroelectric,9.0816,False
+OR,1990,Natural Gas,494.4,Reported,Oregon,Natural gas,0.49439999999999995,False
+OR,1990,Other,0.0,Not listed,Oregon,Other,0.0,False
+OR,1990,Other Biomass,12.2,Reported,Oregon,Other biomass,0.012199999999999999,False
+OR,1990,Other Gases,0.0,Not listed,Oregon,Other gases,0.0,False
+OR,1990,Petroleum,116.4,Reported,Oregon,Petroleum,0.1164,False
+OR,1990,Pumped Storage,0.0,Not listed,Oregon,Pumped storage,0.0,False
+OR,1990,Solar Thermal and Photovoltaic,0.0,Not listed,Oregon,Solar,0.0,False
+OR,1990,Wind,1.0,Reported,Oregon,Wind,0.001,False
+OR,1990,Wood and Wood Derived Fuels,187.6,Reported,Oregon,Wood-derived fuels,0.1876,False
+OR,1991,Geothermal,0.0,Not listed,Oregon,Geothermal,0.0,True
+OR,1991,Nuclear,1104.0,Reported,Oregon,Nuclear,1.104,True
+OR,1991,Coal,543.1,Reported,Oregon,Coal,0.5431,False
+OR,1991,Hydroelectric,9076.5,Reported,Oregon,Hydroelectric,9.0765,False
+OR,1991,Natural Gas,494.4,Reported,Oregon,Natural gas,0.49439999999999995,False
+OR,1991,Other,0.0,Not listed,Oregon,Other,0.0,False
+OR,1991,Other Biomass,16.8,Reported,Oregon,Other biomass,0.016800000000000002,False
+OR,1991,Other Gases,0.0,Not listed,Oregon,Other gases,0.0,False
+OR,1991,Petroleum,116.4,Reported,Oregon,Petroleum,0.1164,False
+OR,1991,Pumped Storage,0.0,Not listed,Oregon,Pumped storage,0.0,False
+OR,1991,Solar Thermal and Photovoltaic,0.0,Not listed,Oregon,Solar,0.0,False
+OR,1991,Wind,1.0,Reported,Oregon,Wind,0.001,False
+OR,1991,Wood and Wood Derived Fuels,182.9,Reported,Oregon,Wood-derived fuels,0.1829,False
+OR,1992,Geothermal,0.0,Not listed,Oregon,Geothermal,0.0,True
+OR,1992,Nuclear,1104.0,Reported,Oregon,Nuclear,1.104,True
+OR,1992,Coal,521.1,Reported,Oregon,Coal,0.5211,False
+OR,1992,Hydroelectric,9113.8,Reported,Oregon,Hydroelectric,9.1138,False
+OR,1992,Natural Gas,494.4,Reported,Oregon,Natural gas,0.49439999999999995,False
+OR,1992,Other,0.0,Not listed,Oregon,Other,0.0,False
+OR,1992,Other Biomass,12.2,Reported,Oregon,Other biomass,0.012199999999999999,False
+OR,1992,Other Gases,0.0,Not listed,Oregon,Other gases,0.0,False
+OR,1992,Petroleum,109.0,Reported,Oregon,Petroleum,0.109,False
+OR,1992,Pumped Storage,0.0,Not listed,Oregon,Pumped storage,0.0,False
+OR,1992,Solar Thermal and Photovoltaic,0.0,Not listed,Oregon,Solar,0.0,False
+OR,1992,Wind,1.0,Reported,Oregon,Wind,0.001,False
+OR,1992,Wood and Wood Derived Fuels,190.3,Reported,Oregon,Wood-derived fuels,0.19030000000000002,False
+OR,1993,Geothermal,0.0,Not listed,Oregon,Geothermal,0.0,True
+OR,1993,Nuclear,0.0,Not listed,Oregon,Nuclear,0.0,True
+OR,1993,Coal,521.1,Reported,Oregon,Coal,0.5211,False
+OR,1993,Hydroelectric,9117.4,Reported,Oregon,Hydroelectric,9.1174,False
+OR,1993,Natural Gas,494.4,Reported,Oregon,Natural gas,0.49439999999999995,False
+OR,1993,Other,0.0,Not listed,Oregon,Other,0.0,False
+OR,1993,Other Biomass,15.4,Reported,Oregon,Other biomass,0.0154,False
+OR,1993,Other Gases,0.0,Not listed,Oregon,Other gases,0.0,False
+OR,1993,Petroleum,109.0,Reported,Oregon,Petroleum,0.109,False
+OR,1993,Pumped Storage,0.0,Not listed,Oregon,Pumped storage,0.0,False
+OR,1993,Solar Thermal and Photovoltaic,0.0,Not listed,Oregon,Solar,0.0,False
+OR,1993,Wind,0.0,Not listed,Oregon,Wind,0.0,False
+OR,1993,Wood and Wood Derived Fuels,158.1,Reported,Oregon,Wood-derived fuels,0.1581,False
+OR,1994,Geothermal,0.0,Not listed,Oregon,Geothermal,0.0,True
+OR,1994,Nuclear,0.0,Not listed,Oregon,Nuclear,0.0,True
+OR,1994,Coal,521.1,Reported,Oregon,Coal,0.5211,False
+OR,1994,Hydroelectric,9130.6,Reported,Oregon,Hydroelectric,9.130600000000001,False
+OR,1994,Natural Gas,494.4,Reported,Oregon,Natural gas,0.49439999999999995,False
+OR,1994,Other,0.0,Not listed,Oregon,Other,0.0,False
+OR,1994,Other Biomass,38.4,Reported,Oregon,Other biomass,0.0384,False
+OR,1994,Other Gases,0.0,Not listed,Oregon,Other gases,0.0,False
+OR,1994,Petroleum,106.0,Reported,Oregon,Petroleum,0.106,False
+OR,1994,Pumped Storage,0.0,Not listed,Oregon,Pumped storage,0.0,False
+OR,1994,Solar Thermal and Photovoltaic,0.0,Not listed,Oregon,Solar,0.0,False
+OR,1994,Wind,0.0,Not listed,Oregon,Wind,0.0,False
+OR,1994,Wood and Wood Derived Fuels,142.0,Reported,Oregon,Wood-derived fuels,0.142,False
+OR,1995,Geothermal,0.0,Not listed,Oregon,Geothermal,0.0,True
+OR,1995,Nuclear,0.0,Not listed,Oregon,Nuclear,0.0,True
+OR,1995,Coal,521.1,Reported,Oregon,Coal,0.5211,False
+OR,1995,Hydroelectric,9139.7,Reported,Oregon,Hydroelectric,9.139700000000001,False
+OR,1995,Natural Gas,838.7,Reported,Oregon,Natural gas,0.8387,False
+OR,1995,Other,0.0,Not listed,Oregon,Other,0.0,False
+OR,1995,Other Biomass,38.4,Reported,Oregon,Other biomass,0.0384,False
+OR,1995,Other Gases,0.0,Not listed,Oregon,Other gases,0.0,False
+OR,1995,Petroleum,103.0,Reported,Oregon,Petroleum,0.103,False
+OR,1995,Pumped Storage,0.0,Not listed,Oregon,Pumped storage,0.0,False
+OR,1995,Solar Thermal and Photovoltaic,0.0,Not listed,Oregon,Solar,0.0,False
+OR,1995,Wind,0.0,Not listed,Oregon,Wind,0.0,False
+OR,1995,Wood and Wood Derived Fuels,157.4,Reported,Oregon,Wood-derived fuels,0.1574,False
+OR,1996,Geothermal,0.0,Not listed,Oregon,Geothermal,0.0,True
+OR,1996,Nuclear,0.0,Not listed,Oregon,Nuclear,0.0,True
+OR,1996,Coal,521.1,Reported,Oregon,Coal,0.5211,False
+OR,1996,Hydroelectric,9137.9,Reported,Oregon,Hydroelectric,9.1379,False
+OR,1996,Natural Gas,1433.3,Reported,Oregon,Natural gas,1.4333,False
+OR,1996,Other,0.0,Not listed,Oregon,Other,0.0,False
+OR,1996,Other Biomass,38.4,Reported,Oregon,Other biomass,0.0384,False
+OR,1996,Other Gases,0.0,Not listed,Oregon,Other gases,0.0,False
+OR,1996,Petroleum,103.0,Reported,Oregon,Petroleum,0.103,False
+OR,1996,Pumped Storage,0.0,Not listed,Oregon,Pumped storage,0.0,False
+OR,1996,Solar Thermal and Photovoltaic,0.0,Not listed,Oregon,Solar,0.0,False
+OR,1996,Wind,0.0,Not listed,Oregon,Wind,0.0,False
+OR,1996,Wood and Wood Derived Fuels,178.2,Reported,Oregon,Wood-derived fuels,0.1782,False
+OR,1997,Geothermal,0.0,Not listed,Oregon,Geothermal,0.0,True
+OR,1997,Nuclear,0.0,Not listed,Oregon,Nuclear,0.0,True
+OR,1997,Coal,521.1,Reported,Oregon,Coal,0.5211,False
+OR,1997,Hydroelectric,9132.9,Reported,Oregon,Hydroelectric,9.1329,False
+OR,1997,Natural Gas,1433.3,Reported,Oregon,Natural gas,1.4333,False
+OR,1997,Other,0.0,Not listed,Oregon,Other,0.0,False
+OR,1997,Other Biomass,40.6,Reported,Oregon,Other biomass,0.040600000000000004,False
+OR,1997,Other Gases,0.0,Not listed,Oregon,Other gases,0.0,False
+OR,1997,Petroleum,103.0,Reported,Oregon,Petroleum,0.103,False
+OR,1997,Pumped Storage,0.0,Not listed,Oregon,Pumped storage,0.0,False
+OR,1997,Solar Thermal and Photovoltaic,0.0,Not listed,Oregon,Solar,0.0,False
+OR,1997,Wind,0.0,Not listed,Oregon,Wind,0.0,False
+OR,1997,Wood and Wood Derived Fuels,178.2,Reported,Oregon,Wood-derived fuels,0.1782,False
+OR,1998,Geothermal,0.0,Not listed,Oregon,Geothermal,0.0,True
+OR,1998,Nuclear,0.0,Not listed,Oregon,Nuclear,0.0,True
+OR,1998,Coal,541.1,Reported,Oregon,Coal,0.5411,False
+OR,1998,Hydroelectric,9128.4,Reported,Oregon,Hydroelectric,9.1284,False
+OR,1998,Natural Gas,1433.3,Reported,Oregon,Natural gas,1.4333,False
+OR,1998,Other,0.0,Not listed,Oregon,Other,0.0,False
+OR,1998,Other Biomass,40.7,Reported,Oregon,Other biomass,0.0407,False
+OR,1998,Other Gases,0.0,Not listed,Oregon,Other gases,0.0,False
+OR,1998,Petroleum,0.0,Not listed,Oregon,Petroleum,0.0,False
+OR,1998,Pumped Storage,0.0,Not listed,Oregon,Pumped storage,0.0,False
+OR,1998,Solar Thermal and Photovoltaic,0.0,Not listed,Oregon,Solar,0.0,False
+OR,1998,Wind,25.1,Reported,Oregon,Wind,0.0251,False
+OR,1998,Wood and Wood Derived Fuels,166.2,Reported,Oregon,Wood-derived fuels,0.1662,False
+OR,1999,Geothermal,0.0,Not listed,Oregon,Geothermal,0.0,True
+OR,1999,Nuclear,0.0,Not listed,Oregon,Nuclear,0.0,True
+OR,1999,Coal,543.1,Reported,Oregon,Coal,0.5431,False
+OR,1999,Hydroelectric,9113.2,Reported,Oregon,Hydroelectric,9.1132,False
+OR,1999,Natural Gas,1290.3,Reported,Oregon,Natural gas,1.2903,False
+OR,1999,Other,0.0,Not listed,Oregon,Other,0.0,False
+OR,1999,Other Biomass,40.7,Reported,Oregon,Other biomass,0.0407,False
+OR,1999,Other Gases,0.0,Not listed,Oregon,Other gases,0.0,False
+OR,1999,Petroleum,0.0,Not listed,Oregon,Petroleum,0.0,False
+OR,1999,Pumped Storage,0.0,Not listed,Oregon,Pumped storage,0.0,False
+OR,1999,Solar Thermal and Photovoltaic,0.0,Not listed,Oregon,Solar,0.0,False
+OR,1999,Wind,25.1,Reported,Oregon,Wind,0.0251,False
+OR,1999,Wood and Wood Derived Fuels,179.8,Reported,Oregon,Wood-derived fuels,0.17980000000000002,False
+OR,2000,Geothermal,0.0,Not listed,Oregon,Geothermal,0.0,True
+OR,2000,Nuclear,0.0,Not listed,Oregon,Nuclear,0.0,True
+OR,2000,Coal,570.0,Reported,Oregon,Coal,0.57,False
+OR,2000,Hydroelectric,9142.0,Reported,Oregon,Hydroelectric,9.142,False
+OR,2000,Natural Gas,1330.0,Reported,Oregon,Natural gas,1.33,False
+OR,2000,Other,0.0,Not listed,Oregon,Other,0.0,False
+OR,2000,Other Biomass,41.0,Reported,Oregon,Other biomass,0.041,False
+OR,2000,Other Gases,0.0,Not listed,Oregon,Other gases,0.0,False
+OR,2000,Petroleum,0.0,Not listed,Oregon,Petroleum,0.0,False
+OR,2000,Pumped Storage,0.0,Not listed,Oregon,Pumped storage,0.0,False
+OR,2000,Solar Thermal and Photovoltaic,0.0,Not listed,Oregon,Solar,0.0,False
+OR,2000,Wind,25.0,Reported,Oregon,Wind,0.025,False
+OR,2000,Wood and Wood Derived Fuels,168.0,Reported,Oregon,Wood-derived fuels,0.168,False
+OR,2001,Geothermal,0.0,Not listed,Oregon,Geothermal,0.0,True
+OR,2001,Nuclear,0.0,Not listed,Oregon,Nuclear,0.0,True
+OR,2001,Coal,567.0,Reported,Oregon,Coal,0.567,False
+OR,2001,Hydroelectric,9118.0,Reported,Oregon,Hydroelectric,9.118,False
+OR,2001,Natural Gas,1750.0,Reported,Oregon,Natural gas,1.75,False
+OR,2001,Other,0.0,Not listed,Oregon,Other,0.0,False
+OR,2001,Other Biomass,17.0,Reported,Oregon,Other biomass,0.017,False
+OR,2001,Other Gases,0.0,Not listed,Oregon,Other gases,0.0,False
+OR,2001,Petroleum,0.0,Not listed,Oregon,Petroleum,0.0,False
+OR,2001,Pumped Storage,0.0,Not listed,Oregon,Pumped storage,0.0,False
+OR,2001,Solar Thermal and Photovoltaic,0.0,Not listed,Oregon,Solar,0.0,False
+OR,2001,Wind,158.0,Reported,Oregon,Wind,0.158,False
+OR,2001,Wood and Wood Derived Fuels,160.0,Reported,Oregon,Wood-derived fuels,0.16,False
+OR,2002,Geothermal,0.0,Not listed,Oregon,Geothermal,0.0,True
+OR,2002,Nuclear,0.0,Not listed,Oregon,Nuclear,0.0,True
+OR,2002,Coal,567.0,Reported,Oregon,Coal,0.567,False
+OR,2002,Hydroelectric,9089.0,Reported,Oregon,Hydroelectric,9.089,False
+OR,2002,Natural Gas,2472.0,Reported,Oregon,Natural gas,2.472,False
+OR,2002,Other,0.0,Not listed,Oregon,Other,0.0,False
+OR,2002,Other Biomass,17.0,Reported,Oregon,Other biomass,0.017,False
+OR,2002,Other Gases,0.0,Not listed,Oregon,Other gases,0.0,False
+OR,2002,Petroleum,0.0,Not listed,Oregon,Petroleum,0.0,False
+OR,2002,Pumped Storage,0.0,Not listed,Oregon,Pumped storage,0.0,False
+OR,2002,Solar Thermal and Photovoltaic,0.0,Not listed,Oregon,Solar,0.0,False
+OR,2002,Wind,182.0,Reported,Oregon,Wind,0.182,False
+OR,2002,Wood and Wood Derived Fuels,158.0,Reported,Oregon,Wood-derived fuels,0.158,False
+OR,2003,Geothermal,0.0,Not listed,Oregon,Geothermal,0.0,True
+OR,2003,Nuclear,0.0,Not listed,Oregon,Nuclear,0.0,True
+OR,2003,Coal,566.0,Reported,Oregon,Coal,0.566,False
+OR,2003,Hydroelectric,9112.0,Reported,Oregon,Hydroelectric,9.112,False
+OR,2003,Natural Gas,2778.0,Reported,Oregon,Natural gas,2.778,False
+OR,2003,Other,0.0,Not listed,Oregon,Other,0.0,False
+OR,2003,Other Biomass,18.0,Reported,Oregon,Other biomass,0.018,False
+OR,2003,Other Gases,0.0,Not listed,Oregon,Other gases,0.0,False
+OR,2003,Petroleum,0.0,Not listed,Oregon,Petroleum,0.0,False
+OR,2003,Pumped Storage,0.0,Not listed,Oregon,Pumped storage,0.0,False
+OR,2003,Solar Thermal and Photovoltaic,0.0,Not listed,Oregon,Solar,0.0,False
+OR,2003,Wind,223.0,Reported,Oregon,Wind,0.223,False
+OR,2003,Wood and Wood Derived Fuels,186.0,Reported,Oregon,Wood-derived fuels,0.186,False
+OR,2004,Geothermal,0.0,Not listed,Oregon,Geothermal,0.0,True
+OR,2004,Nuclear,0.0,Not listed,Oregon,Nuclear,0.0,True
+OR,2004,Coal,566.0,Reported,Oregon,Coal,0.566,False
+OR,2004,Hydroelectric,8330.0,Reported,Oregon,Hydroelectric,8.33,False
+OR,2004,Natural Gas,2771.0,Reported,Oregon,Natural gas,2.771,False
+OR,2004,Other,0.0,Not listed,Oregon,Other,0.0,False
+OR,2004,Other Biomass,17.0,Reported,Oregon,Other biomass,0.017,False
+OR,2004,Other Gases,0.0,Not listed,Oregon,Other gases,0.0,False
+OR,2004,Petroleum,0.0,Not listed,Oregon,Petroleum,0.0,False
+OR,2004,Pumped Storage,0.0,Not listed,Oregon,Pumped storage,0.0,False
+OR,2004,Solar Thermal and Photovoltaic,0.0,Not listed,Oregon,Solar,0.0,False
+OR,2004,Wind,223.0,Reported,Oregon,Wind,0.223,False
+OR,2004,Wood and Wood Derived Fuels,186.0,Reported,Oregon,Wood-derived fuels,0.186,False
+OR,2005,Geothermal,0.0,Not listed,Oregon,Geothermal,0.0,True
+OR,2005,Nuclear,0.0,Not listed,Oregon,Nuclear,0.0,True
+OR,2005,Coal,585.0,Reported,Oregon,Coal,0.585,False
+OR,2005,Hydroelectric,8336.0,Reported,Oregon,Hydroelectric,8.336,False
+OR,2005,Natural Gas,2770.0,Reported,Oregon,Natural gas,2.77,False
+OR,2005,Other,0.0,Not listed,Oregon,Other,0.0,False
+OR,2005,Other Biomass,17.0,Reported,Oregon,Other biomass,0.017,False
+OR,2005,Other Gases,0.0,Not listed,Oregon,Other gases,0.0,False
+OR,2005,Petroleum,0.0,Not listed,Oregon,Petroleum,0.0,False
+OR,2005,Pumped Storage,0.0,Not listed,Oregon,Pumped storage,0.0,False
+OR,2005,Solar Thermal and Photovoltaic,0.0,Not listed,Oregon,Solar,0.0,False
+OR,2005,Wind,298.0,Reported,Oregon,Wind,0.298,False
+OR,2005,Wood and Wood Derived Fuels,193.0,Reported,Oregon,Wood-derived fuels,0.193,False
+OR,2006,Geothermal,0.0,Not listed,Oregon,Geothermal,0.0,True
+OR,2006,Nuclear,0.0,Not listed,Oregon,Nuclear,0.0,True
+OR,2006,Coal,585.0,Reported,Oregon,Coal,0.585,False
+OR,2006,Hydroelectric,8374.0,Reported,Oregon,Hydroelectric,8.374,False
+OR,2006,Natural Gas,2764.0,Reported,Oregon,Natural gas,2.764,False
+OR,2006,Other,0.0,Not listed,Oregon,Other,0.0,False
+OR,2006,Other Biomass,17.0,Reported,Oregon,Other biomass,0.017,False
+OR,2006,Other Gases,0.0,Not listed,Oregon,Other gases,0.0,False
+OR,2006,Petroleum,0.0,Not listed,Oregon,Petroleum,0.0,False
+OR,2006,Pumped Storage,0.0,Not listed,Oregon,Pumped storage,0.0,False
+OR,2006,Solar Thermal and Photovoltaic,0.0,Not listed,Oregon,Solar,0.0,False
+OR,2006,Wind,399.0,Reported,Oregon,Wind,0.399,False
+OR,2006,Wood and Wood Derived Fuels,195.0,Reported,Oregon,Wood-derived fuels,0.195,False
+OR,2007,Geothermal,0.0,Not listed,Oregon,Geothermal,0.0,True
+OR,2007,Nuclear,0.0,Not listed,Oregon,Nuclear,0.0,True
+OR,2007,Coal,585.0,Reported,Oregon,Coal,0.585,False
+OR,2007,Hydroelectric,8385.0,Reported,Oregon,Hydroelectric,8.385,False
+OR,2007,Natural Gas,3101.0,Reported,Oregon,Natural gas,3.101,False
+OR,2007,Other,0.0,Not listed,Oregon,Other,0.0,False
+OR,2007,Other Biomass,38.0,Reported,Oregon,Other biomass,0.038,False
+OR,2007,Other Gases,0.0,Not listed,Oregon,Other gases,0.0,False
+OR,2007,Petroleum,0.0,Not listed,Oregon,Petroleum,0.0,False
+OR,2007,Pumped Storage,0.0,Not listed,Oregon,Pumped storage,0.0,False
+OR,2007,Solar Thermal and Photovoltaic,0.0,Not listed,Oregon,Solar,0.0,False
+OR,2007,Wind,885.0,Reported,Oregon,Wind,0.885,False
+OR,2007,Wood and Wood Derived Fuels,215.0,Reported,Oregon,Wood-derived fuels,0.215,False
+OR,2008,Geothermal,0.0,Not listed,Oregon,Geothermal,0.0,True
+OR,2008,Nuclear,0.0,Not listed,Oregon,Nuclear,0.0,True
+OR,2008,Coal,585.0,Reported,Oregon,Coal,0.585,False
+OR,2008,Hydroelectric,8364.0,Reported,Oregon,Hydroelectric,8.364,False
+OR,2008,Natural Gas,3068.0,Reported,Oregon,Natural gas,3.068,False
+OR,2008,Other,0.0,Not listed,Oregon,Other,0.0,False
+OR,2008,Other Biomass,23.0,Reported,Oregon,Other biomass,0.023,False
+OR,2008,Other Gases,0.0,Not listed,Oregon,Other gases,0.0,False
+OR,2008,Petroleum,0.0,Not listed,Oregon,Petroleum,0.0,False
+OR,2008,Pumped Storage,0.0,Not listed,Oregon,Pumped storage,0.0,False
+OR,2008,Solar Thermal and Photovoltaic,0.0,Not listed,Oregon,Solar,0.0,False
+OR,2008,Wind,1059.0,Reported,Oregon,Wind,1.059,False
+OR,2008,Wood and Wood Derived Fuels,230.0,Reported,Oregon,Wood-derived fuels,0.23,False
+OR,2009,Geothermal,0.0,Not listed,Oregon,Geothermal,0.0,True
+OR,2009,Nuclear,0.0,Not listed,Oregon,Nuclear,0.0,True
+OR,2009,Coal,585.0,Reported,Oregon,Coal,0.585,False
+OR,2009,Hydroelectric,8430.0,Reported,Oregon,Hydroelectric,8.43,False
+OR,2009,Natural Gas,3041.0,Reported,Oregon,Natural gas,3.041,False
+OR,2009,Other,0.0,Not listed,Oregon,Other,0.0,False
+OR,2009,Other Biomass,30.0,Reported,Oregon,Other biomass,0.03,False
+OR,2009,Other Gases,0.0,Not listed,Oregon,Other gases,0.0,False
+OR,2009,Petroleum,0.0,Not listed,Oregon,Petroleum,0.0,False
+OR,2009,Pumped Storage,0.0,Not listed,Oregon,Pumped storage,0.0,False
+OR,2009,Solar Thermal and Photovoltaic,0.0,Not listed,Oregon,Solar,0.0,False
+OR,2009,Wind,1659.0,Reported,Oregon,Wind,1.659,False
+OR,2009,Wood and Wood Derived Fuels,241.0,Reported,Oregon,Wood-derived fuels,0.241,False
+OR,2010,Geothermal,0.0,Not listed,Oregon,Geothermal,0.0,True
+OR,2010,Nuclear,0.0,Not listed,Oregon,Nuclear,0.0,True
+OR,2010,Coal,585.0,Reported,Oregon,Coal,0.585,False
+OR,2010,Hydroelectric,8425.0,Reported,Oregon,Hydroelectric,8.425,False
+OR,2010,Natural Gas,2992.0,Reported,Oregon,Natural gas,2.992,False
+OR,2010,Other,0.0,Not listed,Oregon,Other,0.0,False
+OR,2010,Other Biomass,34.0,Reported,Oregon,Other biomass,0.034,False
+OR,2010,Other Gases,0.0,Not listed,Oregon,Other gases,0.0,False
+OR,2010,Petroleum,0.0,Not listed,Oregon,Petroleum,0.0,False
+OR,2010,Pumped Storage,0.0,Not listed,Oregon,Pumped storage,0.0,False
+OR,2010,Solar Thermal and Photovoltaic,0.0,Not listed,Oregon,Solar,0.0,False
+OR,2010,Wind,2004.0,Reported,Oregon,Wind,2.004,False
+OR,2010,Wood and Wood Derived Fuels,221.0,Reported,Oregon,Wood-derived fuels,0.221,False
+OR,2011,Geothermal,0.0,Not listed,Oregon,Geothermal,0.0,True
+OR,2011,Nuclear,0.0,Not listed,Oregon,Nuclear,0.0,True
+OR,2011,Coal,585.0,Reported,Oregon,Coal,0.585,False
+OR,2011,Hydroelectric,8419.8,Reported,Oregon,Hydroelectric,8.419799999999999,False
+OR,2011,Natural Gas,3042.2,Reported,Oregon,Natural gas,3.0422,False
+OR,2011,Other,0.0,Not listed,Oregon,Other,0.0,False
+OR,2011,Other Biomass,35.9,Reported,Oregon,Other biomass,0.0359,False
+OR,2011,Other Gases,0.0,Not listed,Oregon,Other gases,0.0,False
+OR,2011,Petroleum,0.0,Not listed,Oregon,Petroleum,0.0,False
+OR,2011,Pumped Storage,0.0,Not listed,Oregon,Pumped storage,0.0,False
+OR,2011,Solar Thermal and Photovoltaic,2.6,Reported,Oregon,Solar,0.0026,False
+OR,2011,Wind,2208.0,Reported,Oregon,Wind,2.208,False
+OR,2011,Wood and Wood Derived Fuels,241.1,Reported,Oregon,Wood-derived fuels,0.24109999999999998,False
+OR,2012,Geothermal,17.7,Reported,Oregon,Geothermal,0.0177,True
+OR,2012,Nuclear,0.0,Not listed,Oregon,Nuclear,0.0,True
+OR,2012,Coal,585.0,Reported,Oregon,Coal,0.585,False
+OR,2012,Hydroelectric,8454.7,Reported,Oregon,Hydroelectric,8.4547,False
+OR,2012,Natural Gas,3010.2,Reported,Oregon,Natural gas,3.0101999999999998,False
+OR,2012,Other,0.0,Not listed,Oregon,Other,0.0,False
+OR,2012,Other Biomass,40.7,Reported,Oregon,Other biomass,0.0407,False
+OR,2012,Other Gases,0.0,Not listed,Oregon,Other gases,0.0,False
+OR,2012,Petroleum,0.0,Not listed,Oregon,Petroleum,0.0,False
+OR,2012,Pumped Storage,0.0,Not listed,Oregon,Pumped storage,0.0,False
+OR,2012,Solar Thermal and Photovoltaic,10.7,Reported,Oregon,Solar,0.0107,False
+OR,2012,Wind,3151.9,Reported,Oregon,Wind,3.1519,False
+OR,2012,Wood and Wood Derived Fuels,273.3,Reported,Oregon,Wood-derived fuels,0.2733,False
+OR,2013,Geothermal,17.7,Reported,Oregon,Geothermal,0.0177,True
+OR,2013,Nuclear,0.0,Not listed,Oregon,Nuclear,0.0,True
+OR,2013,Coal,585.0,Reported,Oregon,Coal,0.585,False
+OR,2013,Hydroelectric,8515.7,Reported,Oregon,Hydroelectric,8.5157,False
+OR,2013,Natural Gas,3050.4,Reported,Oregon,Natural gas,3.0504000000000002,False
+OR,2013,Other,0.0,Not listed,Oregon,Other,0.0,False
+OR,2013,Other Biomass,46.5,Reported,Oregon,Other biomass,0.0465,False
+OR,2013,Other Gases,0.0,Not listed,Oregon,Other gases,0.0,False
+OR,2013,Petroleum,0.0,Not listed,Oregon,Petroleum,0.0,False
+OR,2013,Pumped Storage,0.0,Not listed,Oregon,Pumped storage,0.0,False
+OR,2013,Solar Thermal and Photovoltaic,10.7,Reported,Oregon,Solar,0.0107,False
+OR,2013,Wind,3160.9,Reported,Oregon,Wind,3.1609000000000003,False
+OR,2013,Wood and Wood Derived Fuels,274.6,Reported,Oregon,Wood-derived fuels,0.2746,False
+OR,2014,Geothermal,17.7,Reported,Oregon,Geothermal,0.0177,True
+OR,2014,Nuclear,0.0,Not listed,Oregon,Nuclear,0.0,True
+OR,2014,Coal,585.0,Reported,Oregon,Coal,0.585,False
+OR,2014,Hydroelectric,8522.9,Reported,Oregon,Hydroelectric,8.5229,False
+OR,2014,Natural Gas,3256.1,Reported,Oregon,Natural gas,3.2561,False
+OR,2014,Other,0.0,Not listed,Oregon,Other,0.0,False
+OR,2014,Other Biomass,54.5,Reported,Oregon,Other biomass,0.0545,False
+OR,2014,Other Gases,0.0,Not listed,Oregon,Other gases,0.0,False
+OR,2014,Petroleum,0.0,Not listed,Oregon,Petroleum,0.0,False
+OR,2014,Pumped Storage,0.0,Not listed,Oregon,Pumped storage,0.0,False
+OR,2014,Solar Thermal and Photovoltaic,13.9,Reported,Oregon,Solar,0.013900000000000001,False
+OR,2014,Wind,3157.4,Reported,Oregon,Wind,3.1574,False
+OR,2014,Wood and Wood Derived Fuels,276.7,Reported,Oregon,Wood-derived fuels,0.2767,False
+OR,2015,Geothermal,19.5,Reported,Oregon,Geothermal,0.0195,True
+OR,2015,Nuclear,0.0,Not listed,Oregon,Nuclear,0.0,True
+OR,2015,Coal,585.0,Reported,Oregon,Coal,0.585,False
+OR,2015,Hydroelectric,8525.4,Reported,Oregon,Hydroelectric,8.5254,False
+OR,2015,Natural Gas,3274.8,Reported,Oregon,Natural gas,3.2748000000000004,False
+OR,2015,Other,5.0,Reported,Oregon,Other,0.005,False
+OR,2015,Other Biomass,56.0,Reported,Oregon,Other biomass,0.056,False
+OR,2015,Other Gases,0.0,Not listed,Oregon,Other gases,0.0,False
+OR,2015,Petroleum,0.0,Not listed,Oregon,Petroleum,0.0,False
+OR,2015,Pumped Storage,0.0,Not listed,Oregon,Pumped storage,0.0,False
+OR,2015,Solar Thermal and Photovoltaic,18.9,Reported,Oregon,Solar,0.0189,False
+OR,2015,Wind,3157.4,Reported,Oregon,Wind,3.1574,False
+OR,2015,Wood and Wood Derived Fuels,273.5,Reported,Oregon,Wood-derived fuels,0.2735,False
+OR,2016,Geothermal,19.5,Reported,Oregon,Geothermal,0.0195,True
+OR,2016,Nuclear,0.0,Not listed,Oregon,Nuclear,0.0,True
+OR,2016,Coal,585.0,Reported,Oregon,Coal,0.585,False
+OR,2016,Hydroelectric,8423.2,Reported,Oregon,Hydroelectric,8.423200000000001,False
+OR,2016,Natural Gas,3733.1,Reported,Oregon,Natural gas,3.7331,False
+OR,2016,Other,5.0,Reported,Oregon,Other,0.005,False
+OR,2016,Other Biomass,56.0,Reported,Oregon,Other biomass,0.056,False
+OR,2016,Other Gases,0.0,Not listed,Oregon,Other gases,0.0,False
+OR,2016,Petroleum,0.0,Not listed,Oregon,Petroleum,0.0,False
+OR,2016,Pumped Storage,0.0,Not listed,Oregon,Pumped storage,0.0,False
+OR,2016,Solar Thermal and Photovoltaic,99.9,Reported,Oregon,Solar,0.0999,False
+OR,2016,Wind,3160.2,Reported,Oregon,Wind,3.1601999999999997,False
+OR,2016,Wood and Wood Derived Fuels,252.4,Reported,Oregon,Wood-derived fuels,0.2524,False
+OR,2017,Geothermal,19.5,Reported,Oregon,Geothermal,0.0195,True
+OR,2017,Nuclear,0.0,Not listed,Oregon,Nuclear,0.0,True
+OR,2017,Coal,585.0,Reported,Oregon,Coal,0.585,False
+OR,2017,Hydroelectric,8423.2,Reported,Oregon,Hydroelectric,8.423200000000001,False
+OR,2017,Natural Gas,3733.1,Reported,Oregon,Natural gas,3.7331,False
+OR,2017,Other,5.0,Reported,Oregon,Other,0.005,False
+OR,2017,Other Biomass,56.0,Reported,Oregon,Other biomass,0.056,False
+OR,2017,Other Gases,0.0,Not listed,Oregon,Other gases,0.0,False
+OR,2017,Petroleum,0.0,Not listed,Oregon,Petroleum,0.0,False
+OR,2017,Pumped Storage,0.0,Not listed,Oregon,Pumped storage,0.0,False
+OR,2017,Solar Thermal and Photovoltaic,204.2,Reported,Oregon,Solar,0.2042,False
+OR,2017,Wind,3210.2,Reported,Oregon,Wind,3.2102,False
+OR,2017,Wood and Wood Derived Fuels,258.7,Reported,Oregon,Wood-derived fuels,0.2587,False
+OR,2018,Geothermal,19.5,Reported,Oregon,Geothermal,0.0195,True
+OR,2018,Nuclear,0.0,Not listed,Oregon,Nuclear,0.0,True
+OR,2018,Coal,585.0,Reported,Oregon,Coal,0.585,False
+OR,2018,Hydroelectric,8402.3,Reported,Oregon,Hydroelectric,8.402299999999999,False
+OR,2018,Natural Gas,3741.1,Reported,Oregon,Natural gas,3.7411,False
+OR,2018,Other,5.0,Reported,Oregon,Other,0.005,False
+OR,2018,Other Biomass,56.0,Reported,Oregon,Other biomass,0.056,False
+OR,2018,Other Gases,0.0,Not listed,Oregon,Other gases,0.0,False
+OR,2018,Petroleum,0.0,Not listed,Oregon,Petroleum,0.0,False
+OR,2018,Pumped Storage,0.0,Not listed,Oregon,Pumped storage,0.0,False
+OR,2018,Solar Thermal and Photovoltaic,312.5,Reported,Oregon,Solar,0.3125,False
+OR,2018,Wind,3210.2,Reported,Oregon,Wind,3.2102,False
+OR,2018,Wood and Wood Derived Fuels,258.7,Reported,Oregon,Wood-derived fuels,0.2587,False
+OR,2019,Geothermal,19.5,Reported,Oregon,Geothermal,0.0195,True
+OR,2019,Nuclear,0.0,Not listed,Oregon,Nuclear,0.0,True
+OR,2019,Coal,585.0,Reported,Oregon,Coal,0.585,False
+OR,2019,Hydroelectric,8317.0,Reported,Oregon,Hydroelectric,8.317,False
+OR,2019,Natural Gas,3730.2,Reported,Oregon,Natural gas,3.7302,False
+OR,2019,Other,5.0,Reported,Oregon,Other,0.005,False
+OR,2019,Other Biomass,56.3,Reported,Oregon,Other biomass,0.056299999999999996,False
+OR,2019,Other Gases,0.0,Not listed,Oregon,Other gases,0.0,False
+OR,2019,Petroleum,0.0,Not listed,Oregon,Petroleum,0.0,False
+OR,2019,Pumped Storage,0.0,Not listed,Oregon,Pumped storage,0.0,False
+OR,2019,Solar Thermal and Photovoltaic,400.4,Reported,Oregon,Solar,0.4004,False
+OR,2019,Wind,3415.3,Reported,Oregon,Wind,3.4153000000000002,False
+OR,2019,Wood and Wood Derived Fuels,258.7,Reported,Oregon,Wood-derived fuels,0.2587,False
+OR,2020,Geothermal,19.5,Reported,Oregon,Geothermal,0.0195,True
+OR,2020,Nuclear,0.0,Not listed,Oregon,Nuclear,0.0,True
+OR,2020,Coal,0.0,Not listed,Oregon,Coal,0.0,False
+OR,2020,Hydroelectric,8317.0,Reported,Oregon,Hydroelectric,8.317,False
+OR,2020,Natural Gas,3753.4,Reported,Oregon,Natural gas,3.7534,False
+OR,2020,Other,5.0,Reported,Oregon,Other,0.005,False
+OR,2020,Other Biomass,57.4,Reported,Oregon,Other biomass,0.0574,False
+OR,2020,Other Gases,0.0,Not listed,Oregon,Other gases,0.0,False
+OR,2020,Petroleum,0.0,Not listed,Oregon,Petroleum,0.0,False
+OR,2020,Pumped Storage,0.0,Not listed,Oregon,Pumped storage,0.0,False
+OR,2020,Solar Thermal and Photovoltaic,574.1,Reported,Oregon,Solar,0.5741,False
+OR,2020,Wind,3753.5,Reported,Oregon,Wind,3.7535,False
+OR,2020,Wood and Wood Derived Fuels,258.7,Reported,Oregon,Wood-derived fuels,0.2587,False
+OR,2021,Geothermal,19.5,Reported,Oregon,Geothermal,0.0195,True
+OR,2021,Nuclear,0.0,Not listed,Oregon,Nuclear,0.0,True
+OR,2021,Coal,0.0,Not listed,Oregon,Coal,0.0,False
+OR,2021,Hydroelectric,8334.4,Reported,Oregon,Hydroelectric,8.3344,False
+OR,2021,Natural Gas,3748.4,Reported,Oregon,Natural gas,3.7484,False
+OR,2021,Other,5.0,Reported,Oregon,Other,0.005,False
+OR,2021,Other Biomass,52.6,Reported,Oregon,Other biomass,0.0526,False
+OR,2021,Other Gases,0.0,Not listed,Oregon,Other gases,0.0,False
+OR,2021,Petroleum,6.6,Reported,Oregon,Petroleum,0.0066,False
+OR,2021,Pumped Storage,0.0,Not listed,Oregon,Pumped storage,0.0,False
+OR,2021,Solar Thermal and Photovoltaic,726.4,Reported,Oregon,Solar,0.7263999999999999,False
+OR,2021,Wind,3765.8,Reported,Oregon,Wind,3.7658,False
+OR,2021,Wood and Wood Derived Fuels,258.7,Reported,Oregon,Wood-derived fuels,0.2587,False
+OR,2022,Geothermal,19.5,Reported,Oregon,Geothermal,0.0195,True
+OR,2022,Nuclear,0.0,Not listed,Oregon,Nuclear,0.0,True
+OR,2022,Coal,0.0,Not listed,Oregon,Coal,0.0,False
+OR,2022,Hydroelectric,8367.9,Reported,Oregon,Hydroelectric,8.367899999999999,False
+OR,2022,Natural Gas,3748.4,Reported,Oregon,Natural gas,3.7484,False
+OR,2022,Other,35.0,Reported,Oregon,Other,0.035,False
+OR,2022,Other Biomass,52.6,Reported,Oregon,Other biomass,0.0526,False
+OR,2022,Other Gases,0.0,Not listed,Oregon,Other gases,0.0,False
+OR,2022,Petroleum,6.6,Reported,Oregon,Petroleum,0.0066,False
+OR,2022,Pumped Storage,0.0,Not listed,Oregon,Pumped storage,0.0,False
+OR,2022,Solar Thermal and Photovoltaic,793.7,Reported,Oregon,Solar,0.7937000000000001,False
+OR,2022,Wind,3976.5,Reported,Oregon,Wind,3.9765,False
+OR,2022,Wood and Wood Derived Fuels,242.3,Reported,Oregon,Wood-derived fuels,0.24230000000000002,False
+OR,2023,Geothermal,19.5,Reported,Oregon,Geothermal,0.0195,True
+OR,2023,Nuclear,0.0,Not listed,Oregon,Nuclear,0.0,True
+OR,2023,Coal,0.0,Not listed,Oregon,Coal,0.0,False
+OR,2023,Hydroelectric,8363.2,Reported,Oregon,Hydroelectric,8.3632,False
+OR,2023,Natural Gas,3762.4,Reported,Oregon,Natural gas,3.7624,False
+OR,2023,Other,35.0,Reported,Oregon,Other,0.035,False
+OR,2023,Other Biomass,52.6,Reported,Oregon,Other biomass,0.0526,False
+OR,2023,Other Gases,0.0,Not listed,Oregon,Other gases,0.0,False
+OR,2023,Petroleum,6.6,Reported,Oregon,Petroleum,0.0066,False
+OR,2023,Pumped Storage,0.0,Not listed,Oregon,Pumped storage,0.0,False
+OR,2023,Solar Thermal and Photovoltaic,1010.7,Reported,Oregon,Solar,1.0107000000000002,False
+OR,2023,Wind,3976.5,Reported,Oregon,Wind,3.9765,False
+OR,2023,Wood and Wood Derived Fuels,242.3,Reported,Oregon,Wood-derived fuels,0.24230000000000002,False
+OR,2024,Geothermal,19.5,Reported,Oregon,Geothermal,0.0195,True
+OR,2024,Nuclear,0.0,Not listed,Oregon,Nuclear,0.0,True
+OR,2024,Coal,0.0,Not listed,Oregon,Coal,0.0,False
+OR,2024,Hydroelectric,8264.2,Reported,Oregon,Hydroelectric,8.2642,False
+OR,2024,Natural Gas,3762.4,Reported,Oregon,Natural gas,3.7624,False
+OR,2024,Other,322.0,Reported,Oregon,Other,0.322,False
+OR,2024,Other Biomass,52.6,Reported,Oregon,Other biomass,0.0526,False
+OR,2024,Other Gases,0.0,Not listed,Oregon,Other gases,0.0,False
+OR,2024,Petroleum,6.6,Reported,Oregon,Petroleum,0.0066,False
+OR,2024,Pumped Storage,0.0,Not listed,Oregon,Pumped storage,0.0,False
+OR,2024,Solar Thermal and Photovoltaic,1051.7,Reported,Oregon,Solar,1.0517,False
+OR,2024,Wind,3970.4,Reported,Oregon,Wind,3.9704,False
+OR,2024,Wood and Wood Derived Fuels,242.3,Reported,Oregon,Wood-derived fuels,0.24230000000000002,False

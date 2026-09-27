@@ -1,0 +1,40 @@
+State,Energy_source,Capacity_GW_2000,Source_status_2000,Capacity_GW_2024,Source_status_2024,Change_GW,Energy_group,Label
+California,Geothermal,2.529,Reported,1.8812,Reported,-0.6477999999999999,Renewable,-0.6478
+California,Nuclear,4.31,Reported,2.24,Reported,-2.0699999999999994,Non-renewable,-2.0700
+California,Coal,0.407,Reported,0.057,Reported,-0.35,Non-renewable,-0.3500
+California,Hydroelectric,10.311,Reported,10.2136,Reported,-0.09740000000000038,Renewable,-0.0974
+California,Natural gas,26.685,Reported,36.3291,Reported,9.644099999999998,Non-renewable,+9.6441
+California,Other,0.004,Reported,11.8085,Reported,11.8045,Storage / unclassified,+11.8045
+California,Other biomass,0.388,Reported,0.4375,Reported,0.04949999999999999,Renewable,+0.0495
+California,Other gases,0.395,Reported,0.2125,Reported,-0.18250000000000002,Non-renewable,-0.1825
+California,Petroleum,0.986,Reported,0.4422,Reported,-0.5438000000000001,Non-renewable,-0.5438
+California,Pumped storage,3.73,Reported,3.8699,Reported,0.1398999999999999,Storage / unclassified,+0.1399
+California,Solar,0.384,Reported,22.283,Reported,21.899,Renewable,+21.8990
+California,Wind,1.541,Reported,6.4568,Reported,4.915800000000001,Renewable,+4.9158
+California,Wood-derived fuels,0.637,Reported,0.5418999999999999,Reported,-0.09510000000000007,Renewable,-0.0951
+Washington,Geothermal,0.0,Not listed,0.0,Not listed,0.0,Renewable,0.0000
+Washington,Nuclear,1.112,Reported,1.151,Reported,0.038999999999999924,Non-renewable,+0.0390
+Washington,Coal,1.355,Reported,0.67,Reported,-0.6849999999999999,Non-renewable,-0.6850
+Washington,Hydroelectric,21.461,Reported,21.5133,Reported,0.052300000000002456,Renewable,+0.0523
+Washington,Natural gas,1.483,Reported,3.3854,Reported,1.9024,Non-renewable,+1.9024
+Washington,Other,0.0,Not listed,0.006,Reported,0.006,Storage / unclassified,+0.0060
+Washington,Other biomass,0.043,Reported,0.0318,Reported,-0.011199999999999995,Renewable,-0.0112
+Washington,Other gases,0.0,Not listed,0.0,Not listed,0.0,Non-renewable,0.0000
+Washington,Petroleum,0.004,Reported,0.0226,Reported,0.0186,Non-renewable,+0.0186
+Washington,Pumped storage,0.314,Reported,0.314,Reported,0.0,Storage / unclassified,0.0000
+Washington,Solar,0.0,Not listed,0.2683,Reported,0.2683,Renewable,+0.2683
+Washington,Wind,0.0,Not listed,3.3749,Reported,3.3749,Renewable,+3.3749
+Washington,Wood-derived fuels,0.293,Reported,0.238,Reported,-0.05499999999999999,Renewable,-0.0550
+Oregon,Geothermal,0.0,Not listed,0.0195,Reported,0.0195,Renewable,+0.0195
+Oregon,Nuclear,0.0,Not listed,0.0,Not listed,0.0,Non-renewable,0.0000
+Oregon,Coal,0.57,Reported,0.0,Not listed,-0.57,Non-renewable,-0.5700
+Oregon,Hydroelectric,9.142,Reported,8.2642,Reported,-0.8777999999999988,Renewable,-0.8778
+Oregon,Natural gas,1.33,Reported,3.7624,Reported,2.4324,Non-renewable,+2.4324
+Oregon,Other,0.0,Not listed,0.322,Reported,0.322,Storage / unclassified,+0.3220
+Oregon,Other biomass,0.041,Reported,0.0526,Reported,0.0116,Renewable,+0.0116
+Oregon,Other gases,0.0,Not listed,0.0,Not listed,0.0,Non-renewable,0.0000
+Oregon,Petroleum,0.0,Not listed,0.0066,Reported,0.0066,Non-renewable,+0.0066
+Oregon,Pumped storage,0.0,Not listed,0.0,Not listed,0.0,Storage / unclassified,0.0000
+Oregon,Solar,0.0,Not listed,1.0517,Reported,1.0517,Renewable,+1.0517
+Oregon,Wind,0.025,Reported,3.9704,Reported,3.9454000000000002,Renewable,+3.9454
+Oregon,Wood-derived fuels,0.168,Reported,0.2423,Reported,0.07429999999999998,Renewable,+0.0743
